@@ -1,0 +1,2457 @@
+user_id,product_id,product_name,category
+user_1,P5012,Dell Inspiron Laptop,Electronics
+user_1,P2679,Woodland Boots,Fashion
+user_1,P7912,Daawat Basmati Rice,Grocery
+user_2,P4582,Redmi Note 12,Electronics
+user_2,P1434,Allen Solly Formal Shirt,Fashion
+user_2,P9928,Amul Butter,Grocery
+user_3,P5557,Tommy Hilfiger Watch,Fashion
+user_3,P7924,JBL Bluetooth Speaker,Electronics
+user_3,P3547,Voltas AC,Home Appliances
+user_3,P2674,UCB Polo T-Shirt,Fashion
+user_3,P2584,Boat Rockerz Headphones,Electronics
+user_3,P5333,Kent Water Purifier,Home Appliances
+user_4,P3045,Minimalist Serum,Beauty Products
+user_4,P5803,Mamaearth Face Wash,Beauty Products
+user_4,P4150,Catch Spices,Grocery
+user_5,P5741,Samsung Smartwatch,Electronics
+user_5,P2654,Samsung Smartwatch,Electronics
+user_5,P8428,Neutrogena Sunscreen,Beauty Products
+user_6,P6820,HRX Tracksuit,Fashion
+user_6,P2169,RayBan Sunglasses,Fashion
+user_6,P9751,Kellogg's Cornflakes,Grocery
+user_6,P8573,H&M Casual Shirt,Fashion
+user_6,P4598,Neutrogena Sunscreen,Beauty Products
+user_7,P1525,Samsung Smartwatch,Electronics
+user_7,P5386,Prestige Induction Cooktop,Home Appliances
+user_7,P6155,Apple Airpods Pro,Electronics
+user_7,P7482,Reebok Running Shoes,Fashion
+user_7,P5339,Dove Body Lotion,Beauty Products
+user_8,P9830,Louis Philippe Blazer,Fashion
+user_8,P8019,Eureka Forbes Vacuum,Home Appliances
+user_8,P6930,Maggi Noodles,Grocery
+user_8,P9348,Woodland Boots,Fashion
+user_9,P2796,Samsung Galaxy S23,Electronics
+user_9,P7916,H&M Casual Shirt,Fashion
+user_9,P7304,Daawat Basmati Rice,Grocery
+user_9,P8668,Colorbar Nail Polish,Beauty Products
+user_9,P1188,Parle-G Biscuits,Grocery
+user_9,P5371,GoPro Hero10,Electronics
+user_10,P8123,Mi Powerbank,Electronics
+user_10,P1053,Tommy Hilfiger Watch,Fashion
+user_10,P3927,Godrej Air Conditioner,Home Appliances
+user_10,P5889,Nestle Everyday Milk Powder,Grocery
+user_10,P4258,Everest Masala,Grocery
+user_11,P9837,IFB Dishwasher,Home Appliances
+user_11,P6310,Aashirvaad Atta,Grocery
+user_11,P2832,Lakme Lipstick,Beauty Products
+user_11,P4923,Havells Geyser,Home Appliances
+user_12,P2290,Roadster Leather Jacket,Fashion
+user_12,P2133,Samsung 4K TV,Electronics
+user_12,P3103,Tata Tea Premium,Grocery
+user_13,P5342,Kellogg's Cornflakes,Grocery
+user_13,P7932,Everest Masala,Grocery
+user_13,P4295,Louis Philippe Blazer,Fashion
+user_13,P7118,Prestige Induction Cooktop,Home Appliances
+user_13,P8397,Tresemme Conditioner,Beauty Products
+user_13,P4681,Samsung Smartwatch,Electronics
+user_14,P4770,LG Washing Machine,Home Appliances
+user_14,P1117,Britannia Bread,Grocery
+user_14,P4750,Samsung Galaxy S23,Electronics
+user_15,P2160,HP Wireless Mouse,Electronics
+user_15,P5562,Britannia Bread,Grocery
+user_15,P9834,Biotique Face Cream,Beauty Products
+user_16,P8744,Mother Dairy Paneer,Grocery
+user_16,P7669,Reebok Running Shoes,Fashion
+user_16,P2588,Puma Sports Shoes,Fashion
+user_16,P7939,Sugar Eyeliner,Beauty Products
+user_17,P2612,Maybelline Foundation,Beauty Products
+user_17,P6559,Boat Rockerz Headphones,Electronics
+user_17,P4139,Samsung Smartwatch,Electronics
+user_17,P8350,Louis Philippe Blazer,Fashion
+user_17,P4006,Pepe Jeans Top,Fashion
+user_17,P5092,Usha Pedestal Fan,Home Appliances
+user_18,P2604,Minimalist Serum,Beauty Products
+user_18,P1241,GoPro Hero10,Electronics
+user_18,P3724,Samsung Smartwatch,Electronics
+user_19,P4502,Pond's Moisturizer,Beauty Products
+user_19,P3697,Maybelline Foundation,Beauty Products
+user_19,P7396,Lakme Lipstick,Beauty Products
+user_19,P5673,Usha Pedestal Fan,Home Appliances
+user_19,P8973,Minimalist Serum,Beauty Products
+user_19,P5861,Zara Denim Jacket,Fashion
+user_20,P9883,Amazon Echo Dot,Electronics
+user_20,P1936,HP Wireless Mouse,Electronics
+user_20,P8811,Amazon Echo Dot,Electronics
+user_20,P3579,Sunfeast Pasta,Grocery
+user_21,P4044,Daawat Basmati Rice,Grocery
+user_21,P2113,Realme Buds Air,Electronics
+user_21,P2964,Biba Kurti,Fashion
+user_22,P1651,Roadster Leather Jacket,Fashion
+user_22,P7868,Daawat Basmati Rice,Grocery
+user_22,P9565,Mother Dairy Paneer,Grocery
+user_22,P4346,Voltas AC,Home Appliances
+user_22,P5351,Orient Ceiling Fan,Home Appliances
+user_22,P5915,Dove Body Lotion,Beauty Products
+user_22,P2188,Plum Night Cream,Beauty Products
+user_23,P2638,Colorbar Nail Polish,Beauty Products
+user_23,P4492,GoPro Hero10,Electronics
+user_23,P3170,Parle-G Biscuits,Grocery
+user_24,P7054,Samsung Smartwatch,Electronics
+user_24,P8179,IFB Dishwasher,Home Appliances
+user_24,P9666,MTR Ready to Eat,Grocery
+user_24,P5905,GoPro Hero10,Electronics
+user_24,P5333,Sony WH-1000XM4,Electronics
+user_25,P3546,GoPro Hero10,Electronics
+user_25,P4450,Havells Geyser,Home Appliances
+user_25,P5325,Bajaj Room Heater,Home Appliances
+user_26,P1832,Neutrogena Sunscreen,Beauty Products
+user_26,P5533,iPad Air,Electronics
+user_26,P6464,iPhone 15,Electronics
+user_26,P3647,RayBan Sunglasses,Fashion
+user_26,P8007,Minimalist Serum,Beauty Products
+user_26,P2832,Aashirvaad Atta,Grocery
+user_26,P9938,Sony WH-1000XM4,Electronics
+user_27,P3426,Eureka Forbes Vacuum,Home Appliances
+user_27,P1685,Dove Body Lotion,Beauty Products
+user_27,P1653,Kent Water Purifier,Home Appliances
+user_28,P2684,Forever 21 Skirt,Fashion
+user_28,P7658,Crompton Desert Cooler,Home Appliances
+user_28,P4878,Tata Tea Premium,Grocery
+user_28,P7755,H&M Casual Shirt,Fashion
+user_28,P6442,JBL Bluetooth Speaker,Electronics
+user_29,P3608,RayBan Sunglasses,Fashion
+user_29,P1634,Boat Rockerz Headphones,Electronics
+user_29,P4269,The Body Shop Body Butter,Beauty Products
+user_29,P6000,Sugar Eyeliner,Beauty Products
+user_29,P1387,Forever 21 Skirt,Fashion
+user_29,P6378,Biba Kurti,Fashion
+user_30,P6753,Dell Inspiron Laptop,Electronics
+user_30,P9785,Maggi Noodles,Grocery
+user_30,P2889,LG Washing Machine,Home Appliances
+user_30,P5349,IFB Dishwasher,Home Appliances
+user_30,P8119,OnePlus 11,Electronics
+user_31,P9379,Morphy Richards OTG,Home Appliances
+user_31,P4114,Boat Rockerz Headphones,Electronics
+user_31,P8144,Samsung Refrigerator,Home Appliances
+user_31,P9821,Sony PlayStation 5,Electronics
+user_31,P8066,HRX Tracksuit,Fashion
+user_32,P6143,Pigeon Rice Cooker,Home Appliances
+user_32,P9308,Mi Powerbank,Electronics
+user_32,P6344,Morphy Richards OTG,Home Appliances
+user_33,P3085,Crompton Desert Cooler,Home Appliances
+user_33,P7211,Pepe Jeans Top,Fashion
+user_33,P5930,Van Heusen Trousers,Fashion
+user_33,P1006,Minimalist Serum,Beauty Products
+user_33,P4443,Havells Geyser,Home Appliances
+user_33,P6279,MCaffeine Coffee Scrub,Beauty Products
+user_34,P4501,Himalaya Face Pack,Beauty Products
+user_34,P3780,Haldiram's Snacks,Grocery
+user_34,P9445,Mi Powerbank,Electronics
+user_34,P2530,Saffola Oats,Grocery
+user_34,P4680,Gucci Belt,Fashion
+user_34,P1400,Woodland Boots,Fashion
+user_35,P2193,Reebok Running Shoes,Fashion
+user_35,P4185,Nykaa Matte Lipstick,Beauty Products
+user_35,P7547,Pond's Moisturizer,Beauty Products
+user_36,P2746,Levi's Jeans,Fashion
+user_36,P3881,The Body Shop Body Butter,Beauty Products
+user_36,P1822,Organic India Tulsi Tea,Grocery
+user_36,P2988,Britannia Bread,Grocery
+user_37,P9702,Tommy Hilfiger Watch,Fashion
+user_37,P6198,Everest Masala,Grocery
+user_37,P9270,Colorbar Nail Polish,Beauty Products
+user_37,P8305,Minimalist Serum,Beauty Products
+user_37,P8373,Reebok Running Shoes,Fashion
+user_37,P5543,Orient Ceiling Fan,Home Appliances
+user_38,P5499,The Body Shop Body Butter,Beauty Products
+user_38,P5681,Mamaearth Face Wash,Beauty Products
+user_38,P6502,RayBan Sunglasses,Fashion
+user_38,P2320,Crompton Desert Cooler,Home Appliances
+user_38,P4788,Woodland Boots,Fashion
+user_38,P4505,Dove Body Lotion,Beauty Products
+user_38,P7678,iPad Air,Electronics
+user_39,P7812,Organic India Tulsi Tea,Grocery
+user_39,P7883,Apple Airpods Pro,Electronics
+user_39,P1320,MCaffeine Coffee Scrub,Beauty Products
+user_39,P8814,Maggi Noodles,Grocery
+user_39,P5892,Canon DSLR Camera,Electronics
+user_40,P9947,Minimalist Serum,Beauty Products
+user_40,P8999,Britannia Bread,Grocery
+user_40,P8140,RayBan Sunglasses,Fashion
+user_40,P7371,Lakme Lipstick,Beauty Products
+user_40,P3704,Prestige Induction Cooktop,Home Appliances
+user_40,P9751,Dove Body Lotion,Beauty Products
+user_41,P1444,MCaffeine Coffee Scrub,Beauty Products
+user_41,P3223,iPad Air,Electronics
+user_41,P1823,Nivea Deodorant,Beauty Products
+user_42,P4467,Plum Night Cream,Beauty Products
+user_42,P6529,Plum Night Cream,Beauty Products
+user_42,P7906,Neutrogena Sunscreen,Beauty Products
+user_42,P8705,Whirlpool Microwave,Home Appliances
+user_42,P1853,GoPro Hero10,Electronics
+user_43,P1659,Adidas Hoodie,Fashion
+user_43,P4266,Samsung Smartwatch,Electronics
+user_43,P3496,Realme Buds Air,Electronics
+user_43,P8758,Woodland Boots,Fashion
+user_43,P4571,Amazon Echo Dot,Electronics
+user_44,P3749,Kent Water Purifier,Home Appliances
+user_44,P2876,Everest Masala,Grocery
+user_44,P2771,Gucci Belt,Fashion
+user_44,P6111,Aashirvaad Atta,Grocery
+user_44,P7498,Maggi Noodles,Grocery
+user_44,P4978,Adidas Hoodie,Fashion
+user_45,P2983,Pigeon Rice Cooker,Home Appliances
+user_45,P6688,Fortune Sunflower Oil,Grocery
+user_45,P7071,Tropicana Juice,Grocery
+user_46,P1207,Saffola Oats,Grocery
+user_46,P2729,Pond's Moisturizer,Beauty Products
+user_46,P8532,Sugar Eyeliner,Beauty Products
+user_47,P9548,Nivea Deodorant,Beauty Products
+user_47,P9817,Pigeon Rice Cooker,Home Appliances
+user_47,P8136,Himalaya Face Pack,Beauty Products
+user_47,P6280,Parle-G Biscuits,Grocery
+user_48,P8385,Dell Inspiron Laptop,Electronics
+user_48,P7209,Tommy Hilfiger Watch,Fashion
+user_48,P9098,LG Washing Machine,Home Appliances
+user_48,P8988,IFB Dishwasher,Home Appliances
+user_49,P6576,Voltas AC,Home Appliances
+user_49,P5526,Pigeon Rice Cooker,Home Appliances
+user_49,P9464,Aashirvaad Atta,Grocery
+user_49,P4954,Adidas Hoodie,Fashion
+user_50,P4937,Minimalist Serum,Beauty Products
+user_50,P8342,Pond's Moisturizer,Beauty Products
+user_50,P5820,Redmi Note 12,Electronics
+user_50,P4986,Biba Kurti,Fashion
+user_50,P7046,Eureka Forbes Vacuum,Home Appliances
+user_50,P9698,Minimalist Serum,Beauty Products
+user_51,P6419,Minimalist Serum,Beauty Products
+user_51,P5438,Usha Pedestal Fan,Home Appliances
+user_51,P4777,Voltas AC,Home Appliances
+user_51,P6169,Apple Airpods Pro,Electronics
+user_51,P4033,GoPro Hero10,Electronics
+user_52,P5530,Reebok Running Shoes,Fashion
+user_52,P5636,Sunfeast Pasta,Grocery
+user_52,P5853,Apple Airpods Pro,Electronics
+user_52,P3939,HRX Tracksuit,Fashion
+user_53,P3073,GoPro Hero10,Electronics
+user_53,P1893,Samsung Refrigerator,Home Appliances
+user_53,P3068,MTR Ready to Eat,Grocery
+user_53,P1200,L'Oreal Shampoo,Beauty Products
+user_53,P8690,MTR Ready to Eat,Grocery
+user_54,P4020,Plum Night Cream,Beauty Products
+user_54,P8827,Dell Inspiron Laptop,Electronics
+user_54,P7565,Redmi Note 12,Electronics
+user_54,P1878,Mamaearth Face Wash,Beauty Products
+user_54,P5978,Woodland Boots,Fashion
+user_54,P2940,Samsung Smartwatch,Electronics
+user_55,P4697,Colorbar Nail Polish,Beauty Products
+user_55,P8381,Maggi Noodles,Grocery
+user_55,P8025,Garnier Hair Color,Beauty Products
+user_55,P1986,Eureka Forbes Vacuum,Home Appliances
+user_55,P4404,Nestle Everyday Milk Powder,Grocery
+user_55,P2330,RayBan Sunglasses,Fashion
+user_55,P3847,Forever 21 Skirt,Fashion
+user_56,P1043,JBL Bluetooth Speaker,Electronics
+user_56,P8699,Himalaya Face Pack,Beauty Products
+user_56,P4792,Samsung Refrigerator,Home Appliances
+user_56,P8438,Havells Geyser,Home Appliances
+user_56,P5334,Samsung Smartwatch,Electronics
+user_56,P7965,Amul Butter,Grocery
+user_56,P4683,GoPro Hero10,Electronics
+user_57,P2169,Philips Air Fryer,Home Appliances
+user_57,P6039,JBL Bluetooth Speaker,Electronics
+user_57,P5728,Mother Dairy Paneer,Grocery
+user_57,P8679,L'Oreal Shampoo,Beauty Products
+user_58,P9199,Neutrogena Sunscreen,Beauty Products
+user_58,P8172,Haldiram's Snacks,Grocery
+user_58,P1653,Realme Buds Air,Electronics
+user_58,P5102,Plum Night Cream,Beauty Products
+user_58,P4750,Redmi Note 12,Electronics
+user_59,P5415,Aashirvaad Atta,Grocery
+user_59,P3870,Fortune Sunflower Oil,Grocery
+user_59,P8245,Tresemme Conditioner,Beauty Products
+user_59,P8141,IFB Dishwasher,Home Appliances
+user_59,P8700,Mamaearth Face Wash,Beauty Products
+user_59,P6460,Morphy Richards OTG,Home Appliances
+user_59,P3634,Dyson Vacuum Cleaner,Home Appliances
+user_60,P5722,Pond's Moisturizer,Beauty Products
+user_60,P1601,Minimalist Serum,Beauty Products
+user_60,P6153,Mamaearth Face Wash,Beauty Products
+user_60,P2899,Bosch Mixer Grinder,Home Appliances
+user_60,P1018,Tresemme Conditioner,Beauty Products
+user_61,P1888,Nykaa Matte Lipstick,Beauty Products
+user_61,P6927,Allen Solly Formal Shirt,Fashion
+user_61,P8242,Haldiram's Snacks,Grocery
+user_61,P5375,Apple Airpods Pro,Electronics
+user_61,P5719,Tata Tea Premium,Grocery
+user_61,P2989,Pond's Moisturizer,Beauty Products
+user_61,P4920,Realme Buds Air,Electronics
+user_62,P1224,Crompton Desert Cooler,Home Appliances
+user_62,P2527,Tropicana Juice,Grocery
+user_62,P8560,Puma Sports Shoes,Fashion
+user_62,P9165,Sony WH-1000XM4,Electronics
+user_63,P7807,Parle-G Biscuits,Grocery
+user_63,P4993,Pond's Moisturizer,Beauty Products
+user_63,P3369,Minimalist Serum,Beauty Products
+user_63,P9327,Biotique Face Cream,Beauty Products
+user_63,P5526,Adidas Hoodie,Fashion
+user_64,P5377,Godrej Air Conditioner,Home Appliances
+user_64,P5891,Mi Powerbank,Electronics
+user_64,P9022,Mother Dairy Paneer,Grocery
+user_64,P9824,Tommy Hilfiger Watch,Fashion
+user_64,P6446,Sugar Eyeliner,Beauty Products
+user_64,P7180,Patanjali Honey,Grocery
+user_65,P4912,Bajaj Room Heater,Home Appliances
+user_65,P4826,Maggi Noodles,Grocery
+user_65,P6213,Maybelline Foundation,Beauty Products
+user_65,P7325,WOW Skin Science Shampoo,Beauty Products
+user_65,P1606,Reebok Running Shoes,Fashion
+user_65,P6439,Allen Solly Formal Shirt,Fashion
+user_66,P9617,L'Oreal Shampoo,Beauty Products
+user_66,P3361,Lakme Lipstick,Beauty Products
+user_66,P2225,Dove Body Lotion,Beauty Products
+user_67,P7512,Bosch Mixer Grinder,Home Appliances
+user_67,P9742,HP Wireless Mouse,Electronics
+user_67,P8994,Plum Night Cream,Beauty Products
+user_67,P2121,Fortune Sunflower Oil,Grocery
+user_67,P4727,Gucci Belt,Fashion
+user_67,P2612,iPad Air,Electronics
+user_68,P5906,Nivea Deodorant,Beauty Products
+user_68,P6314,Samsung Galaxy S23,Electronics
+user_68,P6873,Mi Powerbank,Electronics
+user_69,P5000,Dove Body Lotion,Beauty Products
+user_69,P3950,Tropicana Juice,Grocery
+user_69,P2293,H&M Casual Shirt,Fashion
+user_69,P4945,Maggi Noodles,Grocery
+user_69,P3344,MCaffeine Coffee Scrub,Beauty Products
+user_70,P8529,Neutrogena Sunscreen,Beauty Products
+user_70,P8622,LG Washing Machine,Home Appliances
+user_70,P3588,Crompton Desert Cooler,Home Appliances
+user_70,P6661,Kindle Paperwhite,Electronics
+user_71,P5097,Morphy Richards OTG,Home Appliances
+user_71,P4263,Garnier Hair Color,Beauty Products
+user_71,P2747,Pond's Moisturizer,Beauty Products
+user_71,P6881,Biba Kurti,Fashion
+user_71,P5837,MTR Ready to Eat,Grocery
+user_71,P5497,Boat Rockerz Headphones,Electronics
+user_71,P1803,Amazon Echo Dot,Electronics
+user_72,P4770,Garnier Hair Color,Beauty Products
+user_72,P4588,Catch Spices,Grocery
+user_72,P5106,Van Heusen Trousers,Fashion
+user_72,P1645,Puma Sports Shoes,Fashion
+user_72,P1546,Usha Pedestal Fan,Home Appliances
+user_72,P3153,Catch Spices,Grocery
+user_72,P6352,Mi Powerbank,Electronics
+user_73,P3165,Zara Denim Jacket,Fashion
+user_73,P9697,Catch Spices,Grocery
+user_73,P3695,Parle-G Biscuits,Grocery
+user_73,P5835,Blue Star Deep Freezer,Home Appliances
+user_73,P8673,Dyson Vacuum Cleaner,Home Appliances
+user_73,P4696,Sony WH-1000XM4,Electronics
+user_74,P2479,Catch Spices,Grocery
+user_74,P5332,Lakme Lipstick,Beauty Products
+user_74,P8451,Nestle Everyday Milk Powder,Grocery
+user_74,P7242,Voltas AC,Home Appliances
+user_74,P4830,Dyson Vacuum Cleaner,Home Appliances
+user_74,P6374,Lakme Lipstick,Beauty Products
+user_75,P8606,Adidas Hoodie,Fashion
+user_75,P2911,Morphy Richards OTG,Home Appliances
+user_75,P1609,Nike Air Max,Fashion
+user_75,P2902,Blue Star Deep Freezer,Home Appliances
+user_75,P9807,Samsung Smartwatch,Electronics
+user_75,P8432,Biba Kurti,Fashion
+user_75,P7866,Crompton Desert Cooler,Home Appliances
+user_76,P2622,Pepe Jeans Top,Fashion
+user_76,P7686,Colorbar Nail Polish,Beauty Products
+user_76,P7070,Samsung Refrigerator,Home Appliances
+user_76,P8285,Tommy Hilfiger Watch,Fashion
+user_76,P2627,HRX Tracksuit,Fashion
+user_76,P6876,Crompton Desert Cooler,Home Appliances
+user_76,P5520,Boat Rockerz Headphones,Electronics
+user_77,P2501,Kindle Paperwhite,Electronics
+user_77,P1349,Van Heusen Trousers,Fashion
+user_77,P4990,HP Wireless Mouse,Electronics
+user_77,P4362,Roadster Leather Jacket,Fashion
+user_78,P4538,Amul Butter,Grocery
+user_78,P3417,UCB Polo T-Shirt,Fashion
+user_78,P5542,Aashirvaad Atta,Grocery
+user_79,P5106,Louis Philippe Blazer,Fashion
+user_79,P1422,Puma Sports Shoes,Fashion
+user_79,P6869,Levi's Jeans,Fashion
+user_79,P6304,Roadster Leather Jacket,Fashion
+user_80,P1858,RayBan Sunglasses,Fashion
+user_80,P9619,Pepe Jeans Top,Fashion
+user_80,P8802,Redmi Note 12,Electronics
+user_81,P2786,Godrej Air Conditioner,Home Appliances
+user_81,P4629,Tresemme Conditioner,Beauty Products
+user_81,P9543,Fortune Sunflower Oil,Grocery
+user_81,P1510,Usha Pedestal Fan,Home Appliances
+user_81,P7580,Samsung 4K TV,Electronics
+user_81,P9032,L'Oreal Shampoo,Beauty Products
+user_82,P6277,Redmi Note 12,Electronics
+user_82,P2076,Tata Tea Premium,Grocery
+user_82,P9984,RayBan Sunglasses,Fashion
+user_82,P9692,Prestige Induction Cooktop,Home Appliances
+user_82,P9282,Usha Pedestal Fan,Home Appliances
+user_82,P2624,Tropicana Juice,Grocery
+user_83,P8046,Amul Butter,Grocery
+user_83,P7779,The Body Shop Body Butter,Beauty Products
+user_83,P7532,Usha Pedestal Fan,Home Appliances
+user_84,P7992,HP Wireless Mouse,Electronics
+user_84,P7132,Voltas AC,Home Appliances
+user_84,P2099,Reebok Running Shoes,Fashion
+user_84,P2527,Redmi Note 12,Electronics
+user_84,P7105,L'Oreal Shampoo,Beauty Products
+user_84,P1982,Louis Philippe Blazer,Fashion
+user_85,P6400,Patanjali Honey,Grocery
+user_85,P6793,iPad Air,Electronics
+user_85,P5712,Maybelline Foundation,Beauty Products
+user_85,P6761,MTR Ready to Eat,Grocery
+user_85,P9313,Amazon Echo Dot,Electronics
+user_85,P8900,Woodland Boots,Fashion
+user_85,P6736,Puma Sports Shoes,Fashion
+user_86,P5564,Dyson Vacuum Cleaner,Home Appliances
+user_86,P8030,Britannia Bread,Grocery
+user_86,P1430,Everest Masala,Grocery
+user_86,P1474,Parle-G Biscuits,Grocery
+user_86,P6062,RayBan Sunglasses,Fashion
+user_86,P1100,Kent Water Purifier,Home Appliances
+user_86,P7566,Woodland Boots,Fashion
+user_87,P2503,Levi's Jeans,Fashion
+user_87,P7163,Amul Butter,Grocery
+user_87,P6585,Himalaya Face Pack,Beauty Products
+user_88,P6314,Havells Geyser,Home Appliances
+user_88,P2391,Everest Masala,Grocery
+user_88,P3579,Sony WH-1000XM4,Electronics
+user_88,P2336,Fortune Sunflower Oil,Grocery
+user_89,P8957,Nykaa Matte Lipstick,Beauty Products
+user_89,P7785,Organic India Tulsi Tea,Grocery
+user_89,P9394,Bajaj Room Heater,Home Appliances
+user_89,P8043,Canon DSLR Camera,Electronics
+user_89,P8972,Mi Powerbank,Electronics
+user_90,P4612,Samsung Refrigerator,Home Appliances
+user_90,P1897,Colorbar Nail Polish,Beauty Products
+user_90,P5938,Apple Airpods Pro,Electronics
+user_90,P5186,Woodland Boots,Fashion
+user_90,P2965,Bosch Mixer Grinder,Home Appliances
+user_90,P8055,Samsung 4K TV,Electronics
+user_90,P7229,Woodland Boots,Fashion
+user_91,P6802,Allen Solly Formal Shirt,Fashion
+user_91,P1693,Boat Rockerz Headphones,Electronics
+user_91,P8532,Lakme Lipstick,Beauty Products
+user_91,P8033,HP Wireless Mouse,Electronics
+user_91,P7843,Maggi Noodles,Grocery
+user_91,P7636,Dyson Vacuum Cleaner,Home Appliances
+user_91,P3815,HP Wireless Mouse,Electronics
+user_92,P2443,Sugar Eyeliner,Beauty Products
+user_92,P4986,L'Oreal Shampoo,Beauty Products
+user_92,P7560,MCaffeine Coffee Scrub,Beauty Products
+user_92,P7484,Daawat Basmati Rice,Grocery
+user_92,P4630,Bosch Mixer Grinder,Home Appliances
+user_92,P2251,IFB Dishwasher,Home Appliances
+user_92,P9693,Nestle Everyday Milk Powder,Grocery
+user_93,P6752,HRX Tracksuit,Fashion
+user_93,P2684,Forever 21 Skirt,Fashion
+user_93,P4232,RayBan Sunglasses,Fashion
+user_93,P3504,Van Heusen Trousers,Fashion
+user_93,P9095,JBL Bluetooth Speaker,Electronics
+user_93,P8354,MCaffeine Coffee Scrub,Beauty Products
+user_93,P6295,Everest Masala,Grocery
+user_94,P2118,Tommy Hilfiger Watch,Fashion
+user_94,P5961,Himalaya Face Pack,Beauty Products
+user_94,P1920,Eureka Forbes Vacuum,Home Appliances
+user_94,P2215,Godrej Air Conditioner,Home Appliances
+user_94,P8404,Usha Pedestal Fan,Home Appliances
+user_95,P5703,Canon DSLR Camera,Electronics
+user_95,P9307,Redmi Note 12,Electronics
+user_95,P1672,Himalaya Face Pack,Beauty Products
+user_96,P6267,Amul Butter,Grocery
+user_96,P9214,Haldiram's Snacks,Grocery
+user_96,P8381,Nike Air Max,Fashion
+user_96,P2381,HP Wireless Mouse,Electronics
+user_96,P1641,Kellogg's Cornflakes,Grocery
+user_96,P8199,Tommy Hilfiger Watch,Fashion
+user_97,P3600,Everest Masala,Grocery
+user_97,P5634,Kent Water Purifier,Home Appliances
+user_97,P6543,Nykaa Matte Lipstick,Beauty Products
+user_97,P6482,Fortune Sunflower Oil,Grocery
+user_97,P2548,HP Wireless Mouse,Electronics
+user_97,P5655,Maggi Noodles,Grocery
+user_97,P3463,Pigeon Rice Cooker,Home Appliances
+user_98,P3317,Amazon Echo Dot,Electronics
+user_98,P7421,Havells Geyser,Home Appliances
+user_98,P2388,Van Heusen Trousers,Fashion
+user_98,P7171,Crompton Desert Cooler,Home Appliances
+user_98,P9624,Philips Air Fryer,Home Appliances
+user_99,P6928,Tresemme Conditioner,Beauty Products
+user_99,P6060,Canon DSLR Camera,Electronics
+user_99,P6598,Zara Denim Jacket,Fashion
+user_100,P3253,Forever 21 Skirt,Fashion
+user_100,P5846,Adidas Hoodie,Fashion
+user_100,P9843,Sony PlayStation 5,Electronics
+user_100,P6517,Fortune Sunflower Oil,Grocery
+user_100,P7172,Tata Tea Premium,Grocery
+user_100,P3962,H&M Casual Shirt,Fashion
+user_101,P1715,Tommy Hilfiger Watch,Fashion
+user_101,P4891,Sugar Eyeliner,Beauty Products
+user_101,P5668,Colorbar Nail Polish,Beauty Products
+user_101,P9749,The Body Shop Body Butter,Beauty Products
+user_101,P8684,Gucci Belt,Fashion
+user_101,P8218,HRX Tracksuit,Fashion
+user_101,P7256,Garnier Hair Color,Beauty Products
+user_102,P3655,Tropicana Juice,Grocery
+user_102,P3267,Van Heusen Trousers,Fashion
+user_102,P8873,Samsung Refrigerator,Home Appliances
+user_102,P2680,Crompton Desert Cooler,Home Appliances
+user_102,P5670,Nestle Everyday Milk Powder,Grocery
+user_102,P5469,JBL Bluetooth Speaker,Electronics
+user_102,P3414,Tresemme Conditioner,Beauty Products
+user_103,P8391,Samsung Smartwatch,Electronics
+user_103,P7797,LG Washing Machine,Home Appliances
+user_103,P9224,Boat Rockerz Headphones,Electronics
+user_103,P7326,Orient Ceiling Fan,Home Appliances
+user_103,P4678,Canon DSLR Camera,Electronics
+user_103,P2623,HP Wireless Mouse,Electronics
+user_104,P1627,Woodland Boots,Fashion
+user_104,P3273,Blue Star Deep Freezer,Home Appliances
+user_104,P1086,Himalaya Face Pack,Beauty Products
+user_104,P5193,iPhone 15,Electronics
+user_104,P9991,Woodland Boots,Fashion
+user_105,P2821,Tropicana Juice,Grocery
+user_105,P5934,Orient Ceiling Fan,Home Appliances
+user_105,P4906,Samsung Galaxy S23,Electronics
+user_105,P8489,Colorbar Nail Polish,Beauty Products
+user_105,P9189,OnePlus 11,Electronics
+user_105,P1269,Patanjali Honey,Grocery
+user_105,P4963,Mother Dairy Paneer,Grocery
+user_106,P1025,Morphy Richards OTG,Home Appliances
+user_106,P4941,Catch Spices,Grocery
+user_106,P4068,Tropicana Juice,Grocery
+user_106,P6908,Sony PlayStation 5,Electronics
+user_107,P9312,Patanjali Honey,Grocery
+user_107,P1333,Patanjali Honey,Grocery
+user_107,P1713,Pond's Moisturizer,Beauty Products
+user_108,P1266,Voltas AC,Home Appliances
+user_108,P6649,Whirlpool Microwave,Home Appliances
+user_108,P6447,Puma Sports Shoes,Fashion
+user_108,P6772,Nike Air Max,Fashion
+user_108,P3868,Saffola Oats,Grocery
+user_108,P3986,Pond's Moisturizer,Beauty Products
+user_109,P1605,Kindle Paperwhite,Electronics
+user_109,P1717,Bajaj Room Heater,Home Appliances
+user_109,P6170,Nike Air Max,Fashion
+user_109,P7524,Godrej Air Conditioner,Home Appliances
+user_110,P1599,Neutrogena Sunscreen,Beauty Products
+user_110,P6848,Gucci Belt,Fashion
+user_110,P5476,HP Wireless Mouse,Electronics
+user_110,P8159,Canon DSLR Camera,Electronics
+user_110,P7334,Himalaya Face Pack,Beauty Products
+user_110,P9129,IFB Dishwasher,Home Appliances
+user_110,P9507,Sugar Eyeliner,Beauty Products
+user_111,P2293,iPad Air,Electronics
+user_111,P3956,Colorbar Nail Polish,Beauty Products
+user_111,P6262,MTR Ready to Eat,Grocery
+user_111,P6372,Redmi Note 12,Electronics
+user_111,P8305,Havells Geyser,Home Appliances
+user_112,P8272,Nivea Deodorant,Beauty Products
+user_112,P1693,Usha Pedestal Fan,Home Appliances
+user_112,P8126,Pigeon Rice Cooker,Home Appliances
+user_112,P2229,Samsung Refrigerator,Home Appliances
+user_112,P9406,Sugar Eyeliner,Beauty Products
+user_112,P3339,Levi's Jeans,Fashion
+user_112,P1570,Organic India Tulsi Tea,Grocery
+user_113,P7001,Samsung Smartwatch,Electronics
+user_113,P1530,Prestige Induction Cooktop,Home Appliances
+user_113,P8371,Tata Tea Premium,Grocery
+user_113,P8273,Kent Water Purifier,Home Appliances
+user_114,P9674,Tata Tea Premium,Grocery
+user_114,P6150,Prestige Induction Cooktop,Home Appliances
+user_114,P2858,Orient Ceiling Fan,Home Appliances
+user_115,P9482,Reebok Running Shoes,Fashion
+user_115,P2929,Minimalist Serum,Beauty Products
+user_115,P8311,Voltas AC,Home Appliances
+user_116,P9047,MTR Ready to Eat,Grocery
+user_116,P3223,Puma Sports Shoes,Fashion
+user_116,P3828,Kindle Paperwhite,Electronics
+user_116,P6236,Mamaearth Face Wash,Beauty Products
+user_117,P9882,GoPro Hero10,Electronics
+user_117,P3580,Havells Geyser,Home Appliances
+user_117,P9335,HRX Tracksuit,Fashion
+user_117,P4292,Puma Sports Shoes,Fashion
+user_117,P9094,Forever 21 Skirt,Fashion
+user_118,P7044,Crompton Desert Cooler,Home Appliances
+user_118,P3126,Minimalist Serum,Beauty Products
+user_118,P2077,Daawat Basmati Rice,Grocery
+user_119,P9612,Pond's Moisturizer,Beauty Products
+user_119,P2208,Nykaa Matte Lipstick,Beauty Products
+user_119,P2215,UCB Polo T-Shirt,Fashion
+user_119,P9476,Himalaya Face Pack,Beauty Products
+user_119,P3981,Philips Air Fryer,Home Appliances
+user_120,P1907,Tresemme Conditioner,Beauty Products
+user_120,P3507,Sony PlayStation 5,Electronics
+user_120,P3653,IFB Dishwasher,Home Appliances
+user_120,P6669,Orient Ceiling Fan,Home Appliances
+user_121,P5105,Whirlpool Microwave,Home Appliances
+user_121,P5496,Louis Philippe Blazer,Fashion
+user_121,P9740,Gucci Belt,Fashion
+user_121,P3762,Sony PlayStation 5,Electronics
+user_121,P3526,Mother Dairy Paneer,Grocery
+user_121,P6531,Van Heusen Trousers,Fashion
+user_121,P1464,Fortune Sunflower Oil,Grocery
+user_122,P5336,Amazon Echo Dot,Electronics
+user_122,P7825,Roadster Leather Jacket,Fashion
+user_122,P9159,Aashirvaad Atta,Grocery
+user_123,P8912,Havells Geyser,Home Appliances
+user_123,P5873,Biba Kurti,Fashion
+user_123,P1981,Mamaearth Face Wash,Beauty Products
+user_123,P7809,Tommy Hilfiger Watch,Fashion
+user_123,P4342,Himalaya Face Pack,Beauty Products
+user_123,P3353,Pigeon Rice Cooker,Home Appliances
+user_123,P6658,Bosch Mixer Grinder,Home Appliances
+user_124,P9437,HRX Tracksuit,Fashion
+user_124,P6228,Nestle Everyday Milk Powder,Grocery
+user_124,P3007,Tommy Hilfiger Watch,Fashion
+user_124,P5061,Usha Pedestal Fan,Home Appliances
+user_124,P1829,Puma Sports Shoes,Fashion
+user_124,P7850,Prestige Induction Cooktop,Home Appliances
+user_125,P6123,UCB Polo T-Shirt,Fashion
+user_125,P9163,H&M Casual Shirt,Fashion
+user_125,P9171,Organic India Tulsi Tea,Grocery
+user_125,P1379,Blue Star Deep Freezer,Home Appliances
+user_126,P8491,Tresemme Conditioner,Beauty Products
+user_126,P6781,Zara Denim Jacket,Fashion
+user_126,P5609,Samsung Galaxy S23,Electronics
+user_127,P5681,Haldiram's Snacks,Grocery
+user_127,P2761,Aashirvaad Atta,Grocery
+user_127,P5333,Dove Body Lotion,Beauty Products
+user_127,P6995,Prestige Induction Cooktop,Home Appliances
+user_127,P1838,Boat Rockerz Headphones,Electronics
+user_127,P4189,Patanjali Honey,Grocery
+user_128,P2204,MTR Ready to Eat,Grocery
+user_128,P8378,Tresemme Conditioner,Beauty Products
+user_128,P2946,Parle-G Biscuits,Grocery
+user_128,P7453,Puma Sports Shoes,Fashion
+user_128,P6990,Bosch Mixer Grinder,Home Appliances
+user_129,P9341,Van Heusen Trousers,Fashion
+user_129,P1659,Tresemme Conditioner,Beauty Products
+user_129,P3245,Samsung Galaxy S23,Electronics
+user_129,P9508,Blue Star Deep Freezer,Home Appliances
+user_130,P9446,Van Heusen Trousers,Fashion
+user_130,P6218,UCB Polo T-Shirt,Fashion
+user_130,P5902,Biba Kurti,Fashion
+user_130,P9311,Saffola Oats,Grocery
+user_130,P9025,Patanjali Honey,Grocery
+user_130,P8780,MTR Ready to Eat,Grocery
+user_131,P2795,Bosch Mixer Grinder,Home Appliances
+user_131,P6040,MCaffeine Coffee Scrub,Beauty Products
+user_131,P8775,Realme Buds Air,Electronics
+user_132,P4728,Mother Dairy Paneer,Grocery
+user_132,P8871,Amazon Echo Dot,Electronics
+user_132,P7229,Allen Solly Formal Shirt,Fashion
+user_132,P1517,Forever 21 Skirt,Fashion
+user_132,P4125,Nestle Everyday Milk Powder,Grocery
+user_133,P7861,Plum Night Cream,Beauty Products
+user_133,P4340,Pepe Jeans Top,Fashion
+user_133,P8726,Tresemme Conditioner,Beauty Products
+user_134,P4397,Allen Solly Formal Shirt,Fashion
+user_134,P8837,Saffola Oats,Grocery
+user_134,P6140,Maggi Noodles,Grocery
+user_135,P6608,Minimalist Serum,Beauty Products
+user_135,P5331,Catch Spices,Grocery
+user_135,P4150,Haldiram's Snacks,Grocery
+user_135,P5890,RayBan Sunglasses,Fashion
+user_136,P4396,Havells Geyser,Home Appliances
+user_136,P8861,Plum Night Cream,Beauty Products
+user_136,P5480,Crompton Desert Cooler,Home Appliances
+user_136,P9899,Dyson Vacuum Cleaner,Home Appliances
+user_137,P3399,Sugar Eyeliner,Beauty Products
+user_137,P5712,Samsung Refrigerator,Home Appliances
+user_137,P8247,Canon DSLR Camera,Electronics
+user_137,P4505,Blue Star Deep Freezer,Home Appliances
+user_137,P5442,Louis Philippe Blazer,Fashion
+user_137,P3249,Parle-G Biscuits,Grocery
+user_138,P4920,Mother Dairy Paneer,Grocery
+user_138,P9700,Nike Air Max,Fashion
+user_138,P1860,Forever 21 Skirt,Fashion
+user_139,P8739,Plum Night Cream,Beauty Products
+user_139,P1084,Sony WH-1000XM4,Electronics
+user_139,P7666,Kellogg's Cornflakes,Grocery
+user_140,P5706,Biotique Face Cream,Beauty Products
+user_140,P1969,Havells Geyser,Home Appliances
+user_140,P4804,Amazon Echo Dot,Electronics
+user_140,P3868,Fortune Sunflower Oil,Grocery
+user_140,P1595,Nivea Deodorant,Beauty Products
+user_140,P4052,Pond's Moisturizer,Beauty Products
+user_141,P5888,iPhone 15,Electronics
+user_141,P2758,Everest Masala,Grocery
+user_141,P8444,Havells Geyser,Home Appliances
+user_141,P9092,Sunfeast Pasta,Grocery
+user_141,P8668,Allen Solly Formal Shirt,Fashion
+user_142,P6417,Puma Sports Shoes,Fashion
+user_142,P5215,Tommy Hilfiger Watch,Fashion
+user_142,P6523,Levi's Jeans,Fashion
+user_142,P4164,Eureka Forbes Vacuum,Home Appliances
+user_142,P7643,Van Heusen Trousers,Fashion
+user_143,P2421,Saffola Oats,Grocery
+user_143,P4027,L'Oreal Shampoo,Beauty Products
+user_143,P6301,Reebok Running Shoes,Fashion
+user_143,P5272,Levi's Jeans,Fashion
+user_143,P8319,The Body Shop Body Butter,Beauty Products
+user_143,P5947,Bosch Mixer Grinder,Home Appliances
+user_144,P5285,Aashirvaad Atta,Grocery
+user_144,P2017,Orient Ceiling Fan,Home Appliances
+user_144,P6026,Kindle Paperwhite,Electronics
+user_144,P9233,Biba Kurti,Fashion
+user_144,P5833,Dyson Vacuum Cleaner,Home Appliances
+user_144,P4618,Pigeon Rice Cooker,Home Appliances
+user_144,P8834,Woodland Boots,Fashion
+user_145,P7121,Colorbar Nail Polish,Beauty Products
+user_145,P8714,Minimalist Serum,Beauty Products
+user_145,P5054,Amul Butter,Grocery
+user_145,P9609,Daawat Basmati Rice,Grocery
+user_146,P2279,Catch Spices,Grocery
+user_146,P2011,Nestle Everyday Milk Powder,Grocery
+user_146,P4312,Sunfeast Pasta,Grocery
+user_146,P3455,Patanjali Honey,Grocery
+user_146,P9525,UCB Polo T-Shirt,Fashion
+user_146,P4365,L'Oreal Shampoo,Beauty Products
+user_147,P9361,Mamaearth Face Wash,Beauty Products
+user_147,P8429,Maybelline Foundation,Beauty Products
+user_147,P7806,Allen Solly Formal Shirt,Fashion
+user_147,P1945,MCaffeine Coffee Scrub,Beauty Products
+user_147,P6049,Organic India Tulsi Tea,Grocery
+user_147,P5169,Boat Rockerz Headphones,Electronics
+user_147,P2196,Apple Airpods Pro,Electronics
+user_148,P2044,Sugar Eyeliner,Beauty Products
+user_148,P2130,Fortune Sunflower Oil,Grocery
+user_148,P5703,Maybelline Foundation,Beauty Products
+user_149,P7887,Woodland Boots,Fashion
+user_149,P8348,Prestige Induction Cooktop,Home Appliances
+user_149,P2314,WOW Skin Science Shampoo,Beauty Products
+user_149,P6697,Tata Tea Premium,Grocery
+user_149,P9802,JBL Bluetooth Speaker,Electronics
+user_149,P3086,Tresemme Conditioner,Beauty Products
+user_150,P5888,iPhone 15,Electronics
+user_150,P7948,Minimalist Serum,Beauty Products
+user_150,P4762,Maggi Noodles,Grocery
+user_150,P6671,Tommy Hilfiger Watch,Fashion
+user_151,P2848,Bajaj Room Heater,Home Appliances
+user_151,P1256,iPad Air,Electronics
+user_151,P2102,Zara Denim Jacket,Fashion
+user_151,P1550,Realme Buds Air,Electronics
+user_152,P5009,Fortune Sunflower Oil,Grocery
+user_152,P8191,Boat Rockerz Headphones,Electronics
+user_152,P4559,Louis Philippe Blazer,Fashion
+user_152,P9255,Sony WH-1000XM4,Electronics
+user_152,P6224,Orient Ceiling Fan,Home Appliances
+user_152,P6253,Everest Masala,Grocery
+user_153,P9540,Philips Air Fryer,Home Appliances
+user_153,P5923,Pepe Jeans Top,Fashion
+user_153,P3869,Samsung Refrigerator,Home Appliances
+user_153,P9120,Minimalist Serum,Beauty Products
+user_154,P9592,Prestige Induction Cooktop,Home Appliances
+user_154,P7688,Morphy Richards OTG,Home Appliances
+user_154,P7167,Gucci Belt,Fashion
+user_155,P4948,Haldiram's Snacks,Grocery
+user_155,P3365,Gucci Belt,Fashion
+user_155,P7761,Maybelline Foundation,Beauty Products
+user_155,P9683,Minimalist Serum,Beauty Products
+user_156,P5177,The Body Shop Body Butter,Beauty Products
+user_156,P2295,UCB Polo T-Shirt,Fashion
+user_156,P2514,Sugar Eyeliner,Beauty Products
+user_156,P1844,Amul Butter,Grocery
+user_157,P1647,Colorbar Nail Polish,Beauty Products
+user_157,P4555,Apple Airpods Pro,Electronics
+user_157,P6455,Biotique Face Cream,Beauty Products
+user_157,P4470,LG Washing Machine,Home Appliances
+user_157,P8846,Puma Sports Shoes,Fashion
+user_158,P7498,Amul Butter,Grocery
+user_158,P6269,Louis Philippe Blazer,Fashion
+user_158,P8639,Prestige Induction Cooktop,Home Appliances
+user_158,P6053,Catch Spices,Grocery
+user_159,P9147,Godrej Air Conditioner,Home Appliances
+user_159,P8692,L'Oreal Shampoo,Beauty Products
+user_159,P7073,Bajaj Room Heater,Home Appliances
+user_159,P1749,Morphy Richards OTG,Home Appliances
+user_159,P3390,Britannia Bread,Grocery
+user_160,P7841,Crompton Desert Cooler,Home Appliances
+user_160,P4214,Philips Air Fryer,Home Appliances
+user_160,P7223,Orient Ceiling Fan,Home Appliances
+user_161,P6530,Reebok Running Shoes,Fashion
+user_161,P9037,Blue Star Deep Freezer,Home Appliances
+user_161,P6770,Nivea Deodorant,Beauty Products
+user_161,P9954,Woodland Boots,Fashion
+user_161,P9882,Nivea Deodorant,Beauty Products
+user_161,P1554,Sony PlayStation 5,Electronics
+user_161,P1104,Samsung Galaxy S23,Electronics
+user_162,P2113,Forever 21 Skirt,Fashion
+user_162,P4583,Levi's Jeans,Fashion
+user_162,P7114,Organic India Tulsi Tea,Grocery
+user_162,P8916,Realme Buds Air,Electronics
+user_162,P1108,Lakme Lipstick,Beauty Products
+user_162,P7739,Patanjali Honey,Grocery
+user_163,P5501,Sony PlayStation 5,Electronics
+user_163,P1280,MTR Ready to Eat,Grocery
+user_163,P3937,Tropicana Juice,Grocery
+user_164,P3439,Sony PlayStation 5,Electronics
+user_164,P9625,Zara Denim Jacket,Fashion
+user_164,P5379,Kent Water Purifier,Home Appliances
+user_165,P7652,Canon DSLR Camera,Electronics
+user_165,P4984,MCaffeine Coffee Scrub,Beauty Products
+user_165,P2320,Gucci Belt,Fashion
+user_165,P7640,Redmi Note 12,Electronics
+user_165,P8798,WOW Skin Science Shampoo,Beauty Products
+user_165,P3807,iPhone 15,Electronics
+user_166,P6427,Nykaa Matte Lipstick,Beauty Products
+user_166,P9653,Nestle Everyday Milk Powder,Grocery
+user_166,P4463,Samsung Smartwatch,Electronics
+user_167,P1762,Neutrogena Sunscreen,Beauty Products
+user_167,P9897,Dell Inspiron Laptop,Electronics
+user_167,P3938,Fortune Sunflower Oil,Grocery
+user_167,P4394,LG Washing Machine,Home Appliances
+user_167,P7525,Tata Tea Premium,Grocery
+user_167,P3661,Mi Powerbank,Electronics
+user_167,P7375,Britannia Bread,Grocery
+user_168,P3292,Prestige Induction Cooktop,Home Appliances
+user_168,P6666,Sony PlayStation 5,Electronics
+user_168,P8161,OnePlus 11,Electronics
+user_168,P6580,Adidas Hoodie,Fashion
+user_168,P7499,Everest Masala,Grocery
+user_168,P5478,LG Washing Machine,Home Appliances
+user_168,P4737,Pond's Moisturizer,Beauty Products
+user_169,P8075,Maggi Noodles,Grocery
+user_169,P7227,Roadster Leather Jacket,Fashion
+user_169,P5839,Realme Buds Air,Electronics
+user_169,P2344,Adidas Hoodie,Fashion
+user_169,P7225,Philips Air Fryer,Home Appliances
+user_170,P6909,Plum Night Cream,Beauty Products
+user_170,P1085,Redmi Note 12,Electronics
+user_170,P6896,Usha Pedestal Fan,Home Appliances
+user_170,P3170,Dyson Vacuum Cleaner,Home Appliances
+user_171,P8353,Pepe Jeans Top,Fashion
+user_171,P9395,Patanjali Honey,Grocery
+user_171,P1430,L'Oreal Shampoo,Beauty Products
+user_172,P2524,Crompton Desert Cooler,Home Appliances
+user_172,P6315,Everest Masala,Grocery
+user_172,P5781,Lakme Lipstick,Beauty Products
+user_173,P4977,Mamaearth Face Wash,Beauty Products
+user_173,P3778,Sunfeast Pasta,Grocery
+user_173,P3274,Nivea Deodorant,Beauty Products
+user_173,P5397,Havells Geyser,Home Appliances
+user_173,P2036,Dove Body Lotion,Beauty Products
+user_173,P5521,Pepe Jeans Top,Fashion
+user_174,P2260,Blue Star Deep Freezer,Home Appliances
+user_174,P5040,Voltas AC,Home Appliances
+user_174,P4203,Colorbar Nail Polish,Beauty Products
+user_174,P3219,L'Oreal Shampoo,Beauty Products
+user_174,P7483,LG Washing Machine,Home Appliances
+user_174,P7224,Pigeon Rice Cooker,Home Appliances
+user_175,P8055,Plum Night Cream,Beauty Products
+user_175,P5922,Tata Tea Premium,Grocery
+user_175,P4290,Pigeon Rice Cooker,Home Appliances
+user_175,P3910,Plum Night Cream,Beauty Products
+user_175,P5775,Plum Night Cream,Beauty Products
+user_176,P6339,Britannia Bread,Grocery
+user_176,P7437,Neutrogena Sunscreen,Beauty Products
+user_176,P4273,Dyson Vacuum Cleaner,Home Appliances
+user_176,P3947,Patanjali Honey,Grocery
+user_176,P8563,Aashirvaad Atta,Grocery
+user_176,P5773,Tommy Hilfiger Watch,Fashion
+user_177,P3280,Pond's Moisturizer,Beauty Products
+user_177,P5139,Orient Ceiling Fan,Home Appliances
+user_177,P7176,Pepe Jeans Top,Fashion
+user_178,P8851,Colorbar Nail Polish,Beauty Products
+user_178,P9755,Maggi Noodles,Grocery
+user_178,P9907,Tropicana Juice,Grocery
+user_179,P2392,Crompton Desert Cooler,Home Appliances
+user_179,P6816,Samsung Smartwatch,Electronics
+user_179,P1725,Van Heusen Trousers,Fashion
+user_180,P8052,Plum Night Cream,Beauty Products
+user_180,P2615,iPhone 15,Electronics
+user_180,P9366,Orient Ceiling Fan,Home Appliances
+user_180,P4621,Patanjali Honey,Grocery
+user_180,P7408,Sugar Eyeliner,Beauty Products
+user_180,P9199,MCaffeine Coffee Scrub,Beauty Products
+user_180,P1402,HRX Tracksuit,Fashion
+user_181,P7815,Mi Powerbank,Electronics
+user_181,P3321,OnePlus 11,Electronics
+user_181,P6620,Havells Geyser,Home Appliances
+user_181,P9537,Biotique Face Cream,Beauty Products
+user_181,P8801,Sugar Eyeliner,Beauty Products
+user_181,P8412,Kindle Paperwhite,Electronics
+user_182,P1732,Mi Powerbank,Electronics
+user_182,P6620,iPhone 15,Electronics
+user_182,P4996,JBL Bluetooth Speaker,Electronics
+user_182,P3623,Kellogg's Cornflakes,Grocery
+user_182,P7985,Crompton Desert Cooler,Home Appliances
+user_183,P4022,Biba Kurti,Fashion
+user_183,P7481,Pepe Jeans Top,Fashion
+user_183,P4232,Realme Buds Air,Electronics
+user_183,P8037,MCaffeine Coffee Scrub,Beauty Products
+user_183,P4519,Lakme Lipstick,Beauty Products
+user_183,P2025,RayBan Sunglasses,Fashion
+user_184,P4063,GoPro Hero10,Electronics
+user_184,P4228,Bosch Mixer Grinder,Home Appliances
+user_184,P5298,L'Oreal Shampoo,Beauty Products
+user_184,P6134,Tresemme Conditioner,Beauty Products
+user_184,P7431,Maggi Noodles,Grocery
+user_184,P6700,Nestle Everyday Milk Powder,Grocery
+user_184,P3826,Usha Pedestal Fan,Home Appliances
+user_185,P2388,Mother Dairy Paneer,Grocery
+user_185,P2931,UCB Polo T-Shirt,Fashion
+user_185,P2916,Gucci Belt,Fashion
+user_185,P3316,HRX Tracksuit,Fashion
+user_185,P7852,Maggi Noodles,Grocery
+user_186,P7286,Roadster Leather Jacket,Fashion
+user_186,P8973,Nivea Deodorant,Beauty Products
+user_186,P3733,Kellogg's Cornflakes,Grocery
+user_186,P3298,Garnier Hair Color,Beauty Products
+user_186,P8389,UCB Polo T-Shirt,Fashion
+user_186,P6882,Fortune Sunflower Oil,Grocery
+user_186,P3236,Samsung 4K TV,Electronics
+user_187,P9281,Minimalist Serum,Beauty Products
+user_187,P9056,Nykaa Matte Lipstick,Beauty Products
+user_187,P9006,Himalaya Face Pack,Beauty Products
+user_187,P1505,Adidas Hoodie,Fashion
+user_188,P5503,Samsung Refrigerator,Home Appliances
+user_188,P5729,Louis Philippe Blazer,Fashion
+user_188,P9115,Tommy Hilfiger Watch,Fashion
+user_188,P2854,Sunfeast Pasta,Grocery
+user_189,P9898,Dell Inspiron Laptop,Electronics
+user_189,P1681,Crompton Desert Cooler,Home Appliances
+user_189,P4580,Minimalist Serum,Beauty Products
+user_189,P5055,L'Oreal Shampoo,Beauty Products
+user_189,P8368,Samsung Refrigerator,Home Appliances
+user_189,P2425,Kent Water Purifier,Home Appliances
+user_189,P4882,L'Oreal Shampoo,Beauty Products
+user_190,P8015,Catch Spices,Grocery
+user_190,P3281,Van Heusen Trousers,Fashion
+user_190,P1972,Zara Denim Jacket,Fashion
+user_190,P9720,Catch Spices,Grocery
+user_191,P3758,Patanjali Honey,Grocery
+user_191,P5740,Havells Geyser,Home Appliances
+user_191,P9428,Parle-G Biscuits,Grocery
+user_191,P7743,Sony WH-1000XM4,Electronics
+user_191,P3078,Dell Inspiron Laptop,Electronics
+user_192,P6277,Woodland Boots,Fashion
+user_192,P9019,Biba Kurti,Fashion
+user_192,P5402,Roadster Leather Jacket,Fashion
+user_192,P8405,WOW Skin Science Shampoo,Beauty Products
+user_193,P9447,Boat Rockerz Headphones,Electronics
+user_193,P8449,Kent Water Purifier,Home Appliances
+user_193,P1040,Plum Night Cream,Beauty Products
+user_194,P2037,Sugar Eyeliner,Beauty Products
+user_194,P4568,Maggi Noodles,Grocery
+user_194,P9105,Biotique Face Cream,Beauty Products
+user_195,P6533,Havells Geyser,Home Appliances
+user_195,P3139,Mother Dairy Paneer,Grocery
+user_195,P6631,Haldiram's Snacks,Grocery
+user_195,P2631,Samsung Galaxy S23,Electronics
+user_195,P3035,Lakme Lipstick,Beauty Products
+user_196,P1011,Himalaya Face Pack,Beauty Products
+user_196,P3161,Biotique Face Cream,Beauty Products
+user_196,P5489,IFB Dishwasher,Home Appliances
+user_196,P5102,Canon DSLR Camera,Electronics
+user_197,P1848,IFB Dishwasher,Home Appliances
+user_197,P4836,Garnier Hair Color,Beauty Products
+user_197,P2559,Mamaearth Face Wash,Beauty Products
+user_198,P2276,Reebok Running Shoes,Fashion
+user_198,P4705,Roadster Leather Jacket,Fashion
+user_198,P1152,Organic India Tulsi Tea,Grocery
+user_199,P7919,Dyson Vacuum Cleaner,Home Appliances
+user_199,P2160,Reebok Running Shoes,Fashion
+user_199,P2463,Biba Kurti,Fashion
+user_200,P7022,HP Wireless Mouse,Electronics
+user_200,P7270,Philips Air Fryer,Home Appliances
+user_200,P2120,Woodland Boots,Fashion
+user_201,P3688,Aashirvaad Atta,Grocery
+user_201,P4490,Sugar Eyeliner,Beauty Products
+user_201,P8248,Pepe Jeans Top,Fashion
+user_201,P2646,Adidas Hoodie,Fashion
+user_201,P7291,Puma Sports Shoes,Fashion
+user_201,P6152,Morphy Richards OTG,Home Appliances
+user_201,P5537,Forever 21 Skirt,Fashion
+user_202,P5668,Louis Philippe Blazer,Fashion
+user_202,P4366,Mi Powerbank,Electronics
+user_202,P9348,Everest Masala,Grocery
+user_203,P1894,Garnier Hair Color,Beauty Products
+user_203,P7322,Reebok Running Shoes,Fashion
+user_203,P9185,Samsung Smartwatch,Electronics
+user_203,P9655,Daawat Basmati Rice,Grocery
+user_204,P3162,Bosch Mixer Grinder,Home Appliances
+user_204,P7895,MCaffeine Coffee Scrub,Beauty Products
+user_204,P3830,Crompton Desert Cooler,Home Appliances
+user_205,P2106,iPhone 15,Electronics
+user_205,P4534,Dell Inspiron Laptop,Electronics
+user_205,P7520,Samsung Galaxy S23,Electronics
+user_205,P9209,MTR Ready to Eat,Grocery
+user_205,P7590,Nykaa Matte Lipstick,Beauty Products
+user_205,P9808,GoPro Hero10,Electronics
+user_206,P2369,RayBan Sunglasses,Fashion
+user_206,P9377,Whirlpool Microwave,Home Appliances
+user_206,P9788,Woodland Boots,Fashion
+user_206,P2083,Prestige Induction Cooktop,Home Appliances
+user_206,P4909,Morphy Richards OTG,Home Appliances
+user_206,P2412,Samsung Smartwatch,Electronics
+user_206,P8428,L'Oreal Shampoo,Beauty Products
+user_207,P6067,Fortune Sunflower Oil,Grocery
+user_207,P1207,Puma Sports Shoes,Fashion
+user_207,P3684,Levi's Jeans,Fashion
+user_207,P9568,Sugar Eyeliner,Beauty Products
+user_207,P3735,Parle-G Biscuits,Grocery
+user_207,P5403,Philips Air Fryer,Home Appliances
+user_207,P6488,iPhone 15,Electronics
+user_208,P2046,Godrej Air Conditioner,Home Appliances
+user_208,P2262,Eureka Forbes Vacuum,Home Appliances
+user_208,P9368,Himalaya Face Pack,Beauty Products
+user_208,P9185,Samsung Refrigerator,Home Appliances
+user_208,P7024,Kellogg's Cornflakes,Grocery
+user_208,P2685,RayBan Sunglasses,Fashion
+user_209,P9336,Samsung Smartwatch,Electronics
+user_209,P1201,Samsung Galaxy S23,Electronics
+user_209,P8729,Nike Air Max,Fashion
+user_209,P3458,Prestige Induction Cooktop,Home Appliances
+user_209,P7870,Nike Air Max,Fashion
+user_209,P5067,UCB Polo T-Shirt,Fashion
+user_209,P5444,Plum Night Cream,Beauty Products
+user_210,P2956,Catch Spices,Grocery
+user_210,P3938,Fortune Sunflower Oil,Grocery
+user_210,P1752,Allen Solly Formal Shirt,Fashion
+user_211,P5625,Kindle Paperwhite,Electronics
+user_211,P2415,Bosch Mixer Grinder,Home Appliances
+user_211,P1130,Organic India Tulsi Tea,Grocery
+user_211,P5777,Bajaj Room Heater,Home Appliances
+user_211,P4974,MTR Ready to Eat,Grocery
+user_211,P9083,Sugar Eyeliner,Beauty Products
+user_212,P3466,Britannia Bread,Grocery
+user_212,P1391,iPad Air,Electronics
+user_212,P6675,Louis Philippe Blazer,Fashion
+user_212,P1023,HP Wireless Mouse,Electronics
+user_213,P4361,Dyson Vacuum Cleaner,Home Appliances
+user_213,P7878,Britannia Bread,Grocery
+user_213,P3332,Maybelline Foundation,Beauty Products
+user_213,P1719,Whirlpool Microwave,Home Appliances
+user_213,P7767,Allen Solly Formal Shirt,Fashion
+user_213,P2391,Usha Pedestal Fan,Home Appliances
+user_214,P3187,Sony PlayStation 5,Electronics
+user_214,P2020,Mamaearth Face Wash,Beauty Products
+user_214,P4879,Dove Body Lotion,Beauty Products
+user_214,P6161,Voltas AC,Home Appliances
+user_214,P6211,Plum Night Cream,Beauty Products
+user_214,P4827,Neutrogena Sunscreen,Beauty Products
+user_214,P3230,Apple Airpods Pro,Electronics
+user_215,P2731,Sony WH-1000XM4,Electronics
+user_215,P8635,Tommy Hilfiger Watch,Fashion
+user_215,P2978,Morphy Richards OTG,Home Appliances
+user_215,P4401,Catch Spices,Grocery
+user_215,P8591,Garnier Hair Color,Beauty Products
+user_215,P2481,Dyson Vacuum Cleaner,Home Appliances
+user_215,P1660,Gucci Belt,Fashion
+user_216,P2494,Philips Air Fryer,Home Appliances
+user_216,P7492,HRX Tracksuit,Fashion
+user_216,P5896,Fortune Sunflower Oil,Grocery
+user_216,P1509,IFB Dishwasher,Home Appliances
+user_217,P5093,Minimalist Serum,Beauty Products
+user_217,P2669,Kindle Paperwhite,Electronics
+user_217,P1195,Puma Sports Shoes,Fashion
+user_217,P3141,Samsung Smartwatch,Electronics
+user_217,P7098,Biba Kurti,Fashion
+user_217,P5240,Amazon Echo Dot,Electronics
+user_218,P4239,Redmi Note 12,Electronics
+user_218,P2506,Dove Body Lotion,Beauty Products
+user_218,P1699,Dyson Vacuum Cleaner,Home Appliances
+user_219,P8096,JBL Bluetooth Speaker,Electronics
+user_219,P1483,Pond's Moisturizer,Beauty Products
+user_219,P3831,Nykaa Matte Lipstick,Beauty Products
+user_219,P4066,Bajaj Room Heater,Home Appliances
+user_219,P8307,Voltas AC,Home Appliances
+user_219,P5026,Nike Air Max,Fashion
+user_220,P8848,Nykaa Matte Lipstick,Beauty Products
+user_220,P5583,Redmi Note 12,Electronics
+user_220,P7868,Dove Body Lotion,Beauty Products
+user_220,P5082,Allen Solly Formal Shirt,Fashion
+user_220,P7266,Aashirvaad Atta,Grocery
+user_221,P8940,Minimalist Serum,Beauty Products
+user_221,P9231,Eureka Forbes Vacuum,Home Appliances
+user_221,P5430,Prestige Induction Cooktop,Home Appliances
+user_221,P6224,Levi's Jeans,Fashion
+user_221,P1480,Britannia Bread,Grocery
+user_222,P9674,Samsung 4K TV,Electronics
+user_222,P4813,Eureka Forbes Vacuum,Home Appliances
+user_222,P5060,Puma Sports Shoes,Fashion
+user_222,P9743,RayBan Sunglasses,Fashion
+user_222,P7363,Samsung Smartwatch,Electronics
+user_223,P4875,H&M Casual Shirt,Fashion
+user_223,P6878,Saffola Oats,Grocery
+user_223,P6761,Aashirvaad Atta,Grocery
+user_223,P3328,Mother Dairy Paneer,Grocery
+user_223,P9064,Amul Butter,Grocery
+user_224,P9035,IFB Dishwasher,Home Appliances
+user_224,P1920,Redmi Note 12,Electronics
+user_224,P4584,Van Heusen Trousers,Fashion
+user_224,P8831,Sony PlayStation 5,Electronics
+user_224,P4300,HP Wireless Mouse,Electronics
+user_224,P3907,UCB Polo T-Shirt,Fashion
+user_224,P1359,Samsung Refrigerator,Home Appliances
+user_225,P2817,Tata Tea Premium,Grocery
+user_225,P2188,Catch Spices,Grocery
+user_225,P2655,Prestige Induction Cooktop,Home Appliances
+user_225,P6285,Havells Geyser,Home Appliances
+user_226,P8982,Pepe Jeans Top,Fashion
+user_226,P6846,IFB Dishwasher,Home Appliances
+user_226,P3872,Roadster Leather Jacket,Fashion
+user_226,P5825,Garnier Hair Color,Beauty Products
+user_227,P7415,Levi's Jeans,Fashion
+user_227,P3983,Fortune Sunflower Oil,Grocery
+user_227,P4619,Saffola Oats,Grocery
+user_227,P9129,Nestle Everyday Milk Powder,Grocery
+user_228,P4899,Whirlpool Microwave,Home Appliances
+user_228,P3750,Bosch Mixer Grinder,Home Appliances
+user_228,P8317,HP Wireless Mouse,Electronics
+user_228,P4435,Dell Inspiron Laptop,Electronics
+user_229,P5205,Canon DSLR Camera,Electronics
+user_229,P1788,iPhone 15,Electronics
+user_229,P7875,Himalaya Face Pack,Beauty Products
+user_229,P9078,Pepe Jeans Top,Fashion
+user_230,P7149,Crompton Desert Cooler,Home Appliances
+user_230,P4695,Samsung 4K TV,Electronics
+user_230,P2207,Tommy Hilfiger Watch,Fashion
+user_230,P1328,Mi Powerbank,Electronics
+user_230,P2715,Voltas AC,Home Appliances
+user_230,P3787,HP Wireless Mouse,Electronics
+user_231,P9962,Adidas Hoodie,Fashion
+user_231,P8909,HP Wireless Mouse,Electronics
+user_231,P3703,iPad Air,Electronics
+user_231,P3573,Tropicana Juice,Grocery
+user_231,P6424,OnePlus 11,Electronics
+user_231,P7705,Zara Denim Jacket,Fashion
+user_232,P5612,Parle-G Biscuits,Grocery
+user_232,P2571,Orient Ceiling Fan,Home Appliances
+user_232,P9043,Boat Rockerz Headphones,Electronics
+user_232,P6911,Nike Air Max,Fashion
+user_232,P2435,iPad Air,Electronics
+user_232,P8869,Pigeon Rice Cooker,Home Appliances
+user_232,P1421,Puma Sports Shoes,Fashion
+user_233,P2342,Gucci Belt,Fashion
+user_233,P6052,L'Oreal Shampoo,Beauty Products
+user_233,P9013,Pond's Moisturizer,Beauty Products
+user_233,P9914,Whirlpool Microwave,Home Appliances
+user_234,P7249,HRX Tracksuit,Fashion
+user_234,P8303,IFB Dishwasher,Home Appliances
+user_234,P8204,Dell Inspiron Laptop,Electronics
+user_234,P4706,Neutrogena Sunscreen,Beauty Products
+user_234,P2009,Eureka Forbes Vacuum,Home Appliances
+user_234,P2404,Puma Sports Shoes,Fashion
+user_235,P4727,Tropicana Juice,Grocery
+user_235,P7342,Fortune Sunflower Oil,Grocery
+user_235,P9773,Tropicana Juice,Grocery
+user_235,P4860,MCaffeine Coffee Scrub,Beauty Products
+user_235,P2293,Garnier Hair Color,Beauty Products
+user_236,P9467,Sony PlayStation 5,Electronics
+user_236,P3415,Everest Masala,Grocery
+user_236,P3832,Kindle Paperwhite,Electronics
+user_236,P4157,Zara Denim Jacket,Fashion
+user_236,P7936,Nike Air Max,Fashion
+user_236,P4308,iPad Air,Electronics
+user_237,P6238,Parle-G Biscuits,Grocery
+user_237,P7358,Redmi Note 12,Electronics
+user_237,P6343,Maggi Noodles,Grocery
+user_237,P8506,Godrej Air Conditioner,Home Appliances
+user_238,P9561,Mother Dairy Paneer,Grocery
+user_238,P7790,L'Oreal Shampoo,Beauty Products
+user_238,P2641,Woodland Boots,Fashion
+user_239,P5687,Nestle Everyday Milk Powder,Grocery
+user_239,P7732,Catch Spices,Grocery
+user_239,P8955,Prestige Induction Cooktop,Home Appliances
+user_240,P1613,Haldiram's Snacks,Grocery
+user_240,P7602,RayBan Sunglasses,Fashion
+user_240,P7581,Van Heusen Trousers,Fashion
+user_240,P6431,Boat Rockerz Headphones,Electronics
+user_240,P8785,Nike Air Max,Fashion
+user_240,P1331,Kent Water Purifier,Home Appliances
+user_240,P6094,Havells Geyser,Home Appliances
+user_241,P4734,L'Oreal Shampoo,Beauty Products
+user_241,P8259,Gucci Belt,Fashion
+user_241,P7828,Voltas AC,Home Appliances
+user_241,P4079,Daawat Basmati Rice,Grocery
+user_241,P7671,Biotique Face Cream,Beauty Products
+user_242,P1920,Catch Spices,Grocery
+user_242,P2075,Kellogg's Cornflakes,Grocery
+user_242,P7609,Godrej Air Conditioner,Home Appliances
+user_242,P1474,Allen Solly Formal Shirt,Fashion
+user_242,P4288,Zara Denim Jacket,Fashion
+user_242,P1541,Samsung Smartwatch,Electronics
+user_243,P4262,Canon DSLR Camera,Electronics
+user_243,P8605,Kent Water Purifier,Home Appliances
+user_243,P3029,Maggi Noodles,Grocery
+user_243,P7102,Samsung Smartwatch,Electronics
+user_243,P8308,Colorbar Nail Polish,Beauty Products
+user_243,P6730,Reebok Running Shoes,Fashion
+user_244,P2480,RayBan Sunglasses,Fashion
+user_244,P7333,LG Washing Machine,Home Appliances
+user_244,P4511,JBL Bluetooth Speaker,Electronics
+user_244,P4387,Forever 21 Skirt,Fashion
+user_244,P9409,Morphy Richards OTG,Home Appliances
+user_245,P3167,Samsung 4K TV,Electronics
+user_245,P1138,Van Heusen Trousers,Fashion
+user_245,P6004,RayBan Sunglasses,Fashion
+user_246,P6713,WOW Skin Science Shampoo,Beauty Products
+user_246,P4575,Neutrogena Sunscreen,Beauty Products
+user_246,P9530,Garnier Hair Color,Beauty Products
+user_246,P2676,Maggi Noodles,Grocery
+user_246,P7131,Sony PlayStation 5,Electronics
+user_247,P5631,Everest Masala,Grocery
+user_247,P8892,Dyson Vacuum Cleaner,Home Appliances
+user_247,P5529,HP Wireless Mouse,Electronics
+user_247,P5278,Voltas AC,Home Appliances
+user_247,P3456,Bajaj Room Heater,Home Appliances
+user_247,P1930,Britannia Bread,Grocery
+user_247,P6236,Maggi Noodles,Grocery
+user_248,P5843,Samsung 4K TV,Electronics
+user_248,P7628,Morphy Richards OTG,Home Appliances
+user_248,P4111,Maybelline Foundation,Beauty Products
+user_248,P9759,Orient Ceiling Fan,Home Appliances
+user_249,P5918,Godrej Air Conditioner,Home Appliances
+user_249,P3967,Louis Philippe Blazer,Fashion
+user_249,P8713,Dyson Vacuum Cleaner,Home Appliances
+user_249,P3999,RayBan Sunglasses,Fashion
+user_249,P4641,Whirlpool Microwave,Home Appliances
+user_249,P6031,Orient Ceiling Fan,Home Appliances
+user_250,P5269,Kent Water Purifier,Home Appliances
+user_250,P8598,MTR Ready to Eat,Grocery
+user_250,P1879,Samsung 4K TV,Electronics
+user_250,P2166,Mother Dairy Paneer,Grocery
+user_250,P9199,Biotique Face Cream,Beauty Products
+user_250,P9680,Boat Rockerz Headphones,Electronics
+user_251,P3470,Maybelline Foundation,Beauty Products
+user_251,P6614,Zara Denim Jacket,Fashion
+user_251,P8496,MCaffeine Coffee Scrub,Beauty Products
+user_251,P3954,UCB Polo T-Shirt,Fashion
+user_251,P6449,Samsung 4K TV,Electronics
+user_252,P1077,Samsung Refrigerator,Home Appliances
+user_252,P4430,Neutrogena Sunscreen,Beauty Products
+user_252,P3595,Roadster Leather Jacket,Fashion
+user_252,P3120,Mamaearth Face Wash,Beauty Products
+user_253,P7609,Nykaa Matte Lipstick,Beauty Products
+user_253,P7280,Pond's Moisturizer,Beauty Products
+user_253,P9745,Samsung Galaxy S23,Electronics
+user_253,P1230,HRX Tracksuit,Fashion
+user_253,P4122,Godrej Air Conditioner,Home Appliances
+user_253,P5076,iPhone 15,Electronics
+user_253,P6113,HRX Tracksuit,Fashion
+user_254,P9246,Boat Rockerz Headphones,Electronics
+user_254,P3736,MTR Ready to Eat,Grocery
+user_254,P5885,Samsung Galaxy S23,Electronics
+user_254,P9524,Usha Pedestal Fan,Home Appliances
+user_255,P8105,Saffola Oats,Grocery
+user_255,P9031,UCB Polo T-Shirt,Fashion
+user_255,P3701,Bajaj Room Heater,Home Appliances
+user_255,P4742,Lakme Lipstick,Beauty Products
+user_255,P4460,Woodland Boots,Fashion
+user_255,P9267,Amazon Echo Dot,Electronics
+user_255,P7006,Puma Sports Shoes,Fashion
+user_256,P9761,Neutrogena Sunscreen,Beauty Products
+user_256,P1785,Fortune Sunflower Oil,Grocery
+user_256,P1790,iPhone 15,Electronics
+user_257,P7230,Himalaya Face Pack,Beauty Products
+user_257,P5140,GoPro Hero10,Electronics
+user_257,P4366,Dove Body Lotion,Beauty Products
+user_258,P2654,Morphy Richards OTG,Home Appliances
+user_258,P3247,Parle-G Biscuits,Grocery
+user_258,P9381,L'Oreal Shampoo,Beauty Products
+user_259,P2867,Mi Powerbank,Electronics
+user_259,P4254,Samsung 4K TV,Electronics
+user_259,P5308,Amul Butter,Grocery
+user_259,P6864,Amul Butter,Grocery
+user_259,P3627,Garnier Hair Color,Beauty Products
+user_259,P9132,GoPro Hero10,Electronics
+user_259,P6416,Reebok Running Shoes,Fashion
+user_260,P2458,iPhone 15,Electronics
+user_260,P9095,Amazon Echo Dot,Electronics
+user_260,P9383,Adidas Hoodie,Fashion
+user_260,P5192,OnePlus 11,Electronics
+user_261,P5327,Garnier Hair Color,Beauty Products
+user_261,P2635,Maybelline Foundation,Beauty Products
+user_261,P5760,Nike Air Max,Fashion
+user_261,P7979,Bosch Mixer Grinder,Home Appliances
+user_262,P1158,Samsung Galaxy S23,Electronics
+user_262,P6384,H&M Casual Shirt,Fashion
+user_262,P5395,Usha Pedestal Fan,Home Appliances
+user_263,P3996,Bosch Mixer Grinder,Home Appliances
+user_263,P7557,Boat Rockerz Headphones,Electronics
+user_263,P7319,Neutrogena Sunscreen,Beauty Products
+user_264,P2852,Nivea Deodorant,Beauty Products
+user_264,P3611,Nike Air Max,Fashion
+user_264,P8908,iPad Air,Electronics
+user_264,P3969,Organic India Tulsi Tea,Grocery
+user_264,P6875,Maggi Noodles,Grocery
+user_264,P3140,Aashirvaad Atta,Grocery
+user_265,P7738,L'Oreal Shampoo,Beauty Products
+user_265,P2037,Maybelline Foundation,Beauty Products
+user_265,P1202,Bosch Mixer Grinder,Home Appliances
+user_265,P4669,Mother Dairy Paneer,Grocery
+user_265,P9570,Godrej Air Conditioner,Home Appliances
+user_265,P8091,Nestle Everyday Milk Powder,Grocery
+user_266,P7305,Sugar Eyeliner,Beauty Products
+user_266,P1894,Louis Philippe Blazer,Fashion
+user_266,P9283,JBL Bluetooth Speaker,Electronics
+user_266,P3709,Pond's Moisturizer,Beauty Products
+user_267,P4946,Plum Night Cream,Beauty Products
+user_267,P1824,Voltas AC,Home Appliances
+user_267,P7203,Britannia Bread,Grocery
+user_268,P8521,Adidas Hoodie,Fashion
+user_268,P8341,MCaffeine Coffee Scrub,Beauty Products
+user_268,P8324,Samsung 4K TV,Electronics
+user_268,P9148,Dyson Vacuum Cleaner,Home Appliances
+user_268,P7609,OnePlus 11,Electronics
+user_268,P9996,Maybelline Foundation,Beauty Products
+user_269,P5990,Realme Buds Air,Electronics
+user_269,P4389,Patanjali Honey,Grocery
+user_269,P6953,Plum Night Cream,Beauty Products
+user_270,P6439,Tommy Hilfiger Watch,Fashion
+user_270,P8751,Everest Masala,Grocery
+user_270,P2868,Usha Pedestal Fan,Home Appliances
+user_271,P6592,Levi's Jeans,Fashion
+user_271,P9973,Havells Geyser,Home Appliances
+user_271,P2741,Catch Spices,Grocery
+user_272,P3301,Reebok Running Shoes,Fashion
+user_272,P5166,L'Oreal Shampoo,Beauty Products
+user_272,P4072,Amul Butter,Grocery
+user_273,P8488,Biotique Face Cream,Beauty Products
+user_273,P2765,UCB Polo T-Shirt,Fashion
+user_273,P3018,Maybelline Foundation,Beauty Products
+user_274,P9260,MCaffeine Coffee Scrub,Beauty Products
+user_274,P1071,Reebok Running Shoes,Fashion
+user_274,P8091,Fortune Sunflower Oil,Grocery
+user_274,P9328,Haldiram's Snacks,Grocery
+user_274,P3845,Roadster Leather Jacket,Fashion
+user_274,P7347,Puma Sports Shoes,Fashion
+user_275,P9259,Saffola Oats,Grocery
+user_275,P5067,Nykaa Matte Lipstick,Beauty Products
+user_275,P6617,Prestige Induction Cooktop,Home Appliances
+user_275,P3185,Usha Pedestal Fan,Home Appliances
+user_275,P9393,Pepe Jeans Top,Fashion
+user_275,P6143,Crompton Desert Cooler,Home Appliances
+user_275,P4291,Amul Butter,Grocery
+user_276,P6657,MTR Ready to Eat,Grocery
+user_276,P9255,H&M Casual Shirt,Fashion
+user_276,P2890,Saffola Oats,Grocery
+user_276,P8870,Crompton Desert Cooler,Home Appliances
+user_277,P9747,Tropicana Juice,Grocery
+user_277,P1209,Morphy Richards OTG,Home Appliances
+user_277,P1414,Nestle Everyday Milk Powder,Grocery
+user_277,P1869,Dove Body Lotion,Beauty Products
+user_277,P5374,Apple Airpods Pro,Electronics
+user_277,P5105,Gucci Belt,Fashion
+user_277,P5835,Nike Air Max,Fashion
+user_278,P6876,Fortune Sunflower Oil,Grocery
+user_278,P4675,L'Oreal Shampoo,Beauty Products
+user_278,P4892,Maggi Noodles,Grocery
+user_278,P1769,MTR Ready to Eat,Grocery
+user_279,P6122,Nykaa Matte Lipstick,Beauty Products
+user_279,P1212,Fortune Sunflower Oil,Grocery
+user_279,P8259,Bajaj Room Heater,Home Appliances
+user_279,P9955,HRX Tracksuit,Fashion
+user_279,P4170,Amul Butter,Grocery
+user_279,P3906,Usha Pedestal Fan,Home Appliances
+user_280,P9418,H&M Casual Shirt,Fashion
+user_280,P1665,Boat Rockerz Headphones,Electronics
+user_280,P5329,Neutrogena Sunscreen,Beauty Products
+user_281,P5178,Roadster Leather Jacket,Fashion
+user_281,P8640,HP Wireless Mouse,Electronics
+user_281,P3518,Nike Air Max,Fashion
+user_281,P1833,Pigeon Rice Cooker,Home Appliances
+user_282,P6866,Blue Star Deep Freezer,Home Appliances
+user_282,P9608,HP Wireless Mouse,Electronics
+user_282,P9529,H&M Casual Shirt,Fashion
+user_282,P3611,Sony PlayStation 5,Electronics
+user_282,P9798,Minimalist Serum,Beauty Products
+user_282,P6724,Mamaearth Face Wash,Beauty Products
+user_282,P6437,Zara Denim Jacket,Fashion
+user_283,P4579,Havells Geyser,Home Appliances
+user_283,P8780,Sunfeast Pasta,Grocery
+user_283,P2879,Aashirvaad Atta,Grocery
+user_283,P4937,Usha Pedestal Fan,Home Appliances
+user_283,P4994,Everest Masala,Grocery
+user_284,P2857,Prestige Induction Cooktop,Home Appliances
+user_284,P9851,Neutrogena Sunscreen,Beauty Products
+user_284,P9468,LG Washing Machine,Home Appliances
+user_285,P8300,Sunfeast Pasta,Grocery
+user_285,P5856,Maybelline Foundation,Beauty Products
+user_285,P9419,UCB Polo T-Shirt,Fashion
+user_285,P3742,OnePlus 11,Electronics
+user_285,P1120,Patanjali Honey,Grocery
+user_286,P7950,Zara Denim Jacket,Fashion
+user_286,P9810,Apple Airpods Pro,Electronics
+user_286,P3519,Mamaearth Face Wash,Beauty Products
+user_287,P1620,Plum Night Cream,Beauty Products
+user_287,P1889,Redmi Note 12,Electronics
+user_287,P2154,RayBan Sunglasses,Fashion
+user_288,P7678,RayBan Sunglasses,Fashion
+user_288,P7626,Himalaya Face Pack,Beauty Products
+user_288,P1276,Plum Night Cream,Beauty Products
+user_288,P9762,L'Oreal Shampoo,Beauty Products
+user_288,P2036,Realme Buds Air,Electronics
+user_288,P2189,Fortune Sunflower Oil,Grocery
+user_288,P2738,Godrej Air Conditioner,Home Appliances
+user_289,P2417,Pigeon Rice Cooker,Home Appliances
+user_289,P7249,Usha Pedestal Fan,Home Appliances
+user_289,P8765,Lakme Lipstick,Beauty Products
+user_289,P4602,Louis Philippe Blazer,Fashion
+user_289,P9941,Biba Kurti,Fashion
+user_290,P7113,Gucci Belt,Fashion
+user_290,P3316,GoPro Hero10,Electronics
+user_290,P1082,Samsung Galaxy S23,Electronics
+user_290,P7456,Everest Masala,Grocery
+user_290,P2394,Patanjali Honey,Grocery
+user_291,P4469,HRX Tracksuit,Fashion
+user_291,P3333,Tresemme Conditioner,Beauty Products
+user_291,P4617,H&M Casual Shirt,Fashion
+user_291,P4183,Parle-G Biscuits,Grocery
+user_291,P1891,JBL Bluetooth Speaker,Electronics
+user_292,P2198,Minimalist Serum,Beauty Products
+user_292,P5107,Whirlpool Microwave,Home Appliances
+user_292,P8982,Apple Airpods Pro,Electronics
+user_292,P3100,Kent Water Purifier,Home Appliances
+user_292,P5671,Puma Sports Shoes,Fashion
+user_292,P4170,Daawat Basmati Rice,Grocery
+user_292,P8383,Blue Star Deep Freezer,Home Appliances
+user_293,P3496,MTR Ready to Eat,Grocery
+user_293,P6971,Mother Dairy Paneer,Grocery
+user_293,P3762,Morphy Richards OTG,Home Appliances
+user_293,P5033,HP Wireless Mouse,Electronics
+user_293,P5533,Pepe Jeans Top,Fashion
+user_294,P8863,UCB Polo T-Shirt,Fashion
+user_294,P6877,Himalaya Face Pack,Beauty Products
+user_294,P2783,Blue Star Deep Freezer,Home Appliances
+user_294,P2343,Van Heusen Trousers,Fashion
+user_294,P9824,Philips Air Fryer,Home Appliances
+user_295,P2235,Whirlpool Microwave,Home Appliances
+user_295,P1511,Sony PlayStation 5,Electronics
+user_295,P7637,Mother Dairy Paneer,Grocery
+user_295,P1600,Amul Butter,Grocery
+user_296,P9842,Crompton Desert Cooler,Home Appliances
+user_296,P6993,Dove Body Lotion,Beauty Products
+user_296,P5767,The Body Shop Body Butter,Beauty Products
+user_296,P9210,Tommy Hilfiger Watch,Fashion
+user_296,P7500,Daawat Basmati Rice,Grocery
+user_296,P1173,Godrej Air Conditioner,Home Appliances
+user_296,P3717,Van Heusen Trousers,Fashion
+user_297,P3608,Tommy Hilfiger Watch,Fashion
+user_297,P3395,Roadster Leather Jacket,Fashion
+user_297,P1662,Sugar Eyeliner,Beauty Products
+user_297,P4796,Reebok Running Shoes,Fashion
+user_297,P7052,Dell Inspiron Laptop,Electronics
+user_297,P4387,Nike Air Max,Fashion
+user_297,P7358,Catch Spices,Grocery
+user_298,P1653,Maybelline Foundation,Beauty Products
+user_298,P9542,Dyson Vacuum Cleaner,Home Appliances
+user_298,P9918,Voltas AC,Home Appliances
+user_298,P7171,Kellogg's Cornflakes,Grocery
+user_298,P2275,Sugar Eyeliner,Beauty Products
+user_298,P7165,Parle-G Biscuits,Grocery
+user_299,P6781,Maggi Noodles,Grocery
+user_299,P8898,Blue Star Deep Freezer,Home Appliances
+user_299,P9222,Aashirvaad Atta,Grocery
+user_299,P3713,Tommy Hilfiger Watch,Fashion
+user_300,P5600,Sony PlayStation 5,Electronics
+user_300,P4062,Woodland Boots,Fashion
+user_300,P2938,HRX Tracksuit,Fashion
+user_300,P6410,Pepe Jeans Top,Fashion
+user_301,P8848,Pond's Moisturizer,Beauty Products
+user_301,P3641,Roadster Leather Jacket,Fashion
+user_301,P4992,Lakme Lipstick,Beauty Products
+user_302,P3639,Roadster Leather Jacket,Fashion
+user_302,P1642,Allen Solly Formal Shirt,Fashion
+user_302,P1916,Tata Tea Premium,Grocery
+user_303,P9464,IFB Dishwasher,Home Appliances
+user_303,P1305,Colorbar Nail Polish,Beauty Products
+user_303,P4548,Whirlpool Microwave,Home Appliances
+user_303,P8723,Colorbar Nail Polish,Beauty Products
+user_304,P7730,Forever 21 Skirt,Fashion
+user_304,P3979,Tata Tea Premium,Grocery
+user_304,P5333,Sunfeast Pasta,Grocery
+user_304,P8429,UCB Polo T-Shirt,Fashion
+user_304,P2127,Mother Dairy Paneer,Grocery
+user_304,P7315,Biba Kurti,Fashion
+user_305,P4315,iPhone 15,Electronics
+user_305,P7877,Sunfeast Pasta,Grocery
+user_305,P2577,Van Heusen Trousers,Fashion
+user_305,P1639,Reebok Running Shoes,Fashion
+user_306,P2526,Nestle Everyday Milk Powder,Grocery
+user_306,P9835,Dove Body Lotion,Beauty Products
+user_306,P9553,iPad Air,Electronics
+user_306,P1711,Sugar Eyeliner,Beauty Products
+user_306,P4759,Tropicana Juice,Grocery
+user_306,P6742,WOW Skin Science Shampoo,Beauty Products
+user_306,P2600,Mother Dairy Paneer,Grocery
+user_307,P8817,RayBan Sunglasses,Fashion
+user_307,P5641,Adidas Hoodie,Fashion
+user_307,P7695,Patanjali Honey,Grocery
+user_307,P1089,Bajaj Room Heater,Home Appliances
+user_307,P9561,Amazon Echo Dot,Electronics
+user_307,P1117,Sony PlayStation 5,Electronics
+user_308,P7698,UCB Polo T-Shirt,Fashion
+user_308,P3535,Dyson Vacuum Cleaner,Home Appliances
+user_308,P5155,MCaffeine Coffee Scrub,Beauty Products
+user_308,P7939,Crompton Desert Cooler,Home Appliances
+user_308,P5514,Catch Spices,Grocery
+user_308,P7770,Biotique Face Cream,Beauty Products
+user_309,P3928,Haldiram's Snacks,Grocery
+user_309,P8925,Crompton Desert Cooler,Home Appliances
+user_309,P6641,Havells Geyser,Home Appliances
+user_309,P2951,Dove Body Lotion,Beauty Products
+user_309,P3650,Tommy Hilfiger Watch,Fashion
+user_309,P9328,Apple Airpods Pro,Electronics
+user_309,P1852,Plum Night Cream,Beauty Products
+user_310,P2492,Lakme Lipstick,Beauty Products
+user_310,P8133,Reebok Running Shoes,Fashion
+user_310,P5310,Redmi Note 12,Electronics
+user_310,P2311,HRX Tracksuit,Fashion
+user_311,P7564,Boat Rockerz Headphones,Electronics
+user_311,P5693,Sunfeast Pasta,Grocery
+user_311,P3871,Fortune Sunflower Oil,Grocery
+user_311,P1175,Himalaya Face Pack,Beauty Products
+user_311,P5685,Allen Solly Formal Shirt,Fashion
+user_311,P9364,Nike Air Max,Fashion
+user_311,P3776,Britannia Bread,Grocery
+user_312,P1004,Orient Ceiling Fan,Home Appliances
+user_312,P5520,Adidas Hoodie,Fashion
+user_312,P7474,Sugar Eyeliner,Beauty Products
+user_313,P9482,Amul Butter,Grocery
+user_313,P2477,Redmi Note 12,Electronics
+user_313,P6703,MTR Ready to Eat,Grocery
+user_313,P4707,Voltas AC,Home Appliances
+user_313,P8450,Amul Butter,Grocery
+user_313,P1076,MCaffeine Coffee Scrub,Beauty Products
+user_314,P9294,Pepe Jeans Top,Fashion
+user_314,P2185,GoPro Hero10,Electronics
+user_314,P6570,MTR Ready to Eat,Grocery
+user_314,P5222,Sony PlayStation 5,Electronics
+user_314,P5098,Mother Dairy Paneer,Grocery
+user_315,P8923,MCaffeine Coffee Scrub,Beauty Products
+user_315,P8517,UCB Polo T-Shirt,Fashion
+user_315,P1448,MCaffeine Coffee Scrub,Beauty Products
+user_315,P5224,L'Oreal Shampoo,Beauty Products
+user_315,P4610,Boat Rockerz Headphones,Electronics
+user_315,P7757,UCB Polo T-Shirt,Fashion
+user_316,P1159,Patanjali Honey,Grocery
+user_316,P5706,Orient Ceiling Fan,Home Appliances
+user_316,P6603,Boat Rockerz Headphones,Electronics
+user_316,P3924,GoPro Hero10,Electronics
+user_316,P6792,Plum Night Cream,Beauty Products
+user_317,P3994,Parle-G Biscuits,Grocery
+user_317,P4271,Reebok Running Shoes,Fashion
+user_317,P5348,Forever 21 Skirt,Fashion
+user_317,P4322,Forever 21 Skirt,Fashion
+user_318,P3555,Catch Spices,Grocery
+user_318,P2285,OnePlus 11,Electronics
+user_318,P1108,Colorbar Nail Polish,Beauty Products
+user_318,P8901,Fortune Sunflower Oil,Grocery
+user_319,P9066,Saffola Oats,Grocery
+user_319,P9041,Parle-G Biscuits,Grocery
+user_319,P5591,Allen Solly Formal Shirt,Fashion
+user_319,P3101,The Body Shop Body Butter,Beauty Products
+user_319,P7933,Sony PlayStation 5,Electronics
+user_320,P9232,Fortune Sunflower Oil,Grocery
+user_320,P3863,Prestige Induction Cooktop,Home Appliances
+user_320,P9490,L'Oreal Shampoo,Beauty Products
+user_320,P1137,Plum Night Cream,Beauty Products
+user_320,P7216,Apple Airpods Pro,Electronics
+user_320,P6331,Nestle Everyday Milk Powder,Grocery
+user_321,P4066,Parle-G Biscuits,Grocery
+user_321,P4885,Parle-G Biscuits,Grocery
+user_321,P6621,Blue Star Deep Freezer,Home Appliances
+user_321,P9171,IFB Dishwasher,Home Appliances
+user_321,P7866,Biotique Face Cream,Beauty Products
+user_322,P5581,Prestige Induction Cooktop,Home Appliances
+user_322,P3148,Nivea Deodorant,Beauty Products
+user_322,P2636,Britannia Bread,Grocery
+user_322,P8081,Orient Ceiling Fan,Home Appliances
+user_322,P3389,Biotique Face Cream,Beauty Products
+user_323,P3893,Lakme Lipstick,Beauty Products
+user_323,P3203,Pond's Moisturizer,Beauty Products
+user_323,P6172,Patanjali Honey,Grocery
+user_323,P5111,Garnier Hair Color,Beauty Products
+user_324,P7527,Fortune Sunflower Oil,Grocery
+user_324,P1983,JBL Bluetooth Speaker,Electronics
+user_324,P8807,RayBan Sunglasses,Fashion
+user_324,P6483,Kindle Paperwhite,Electronics
+user_324,P6903,Kent Water Purifier,Home Appliances
+user_324,P5222,Patanjali Honey,Grocery
+user_324,P7746,LG Washing Machine,Home Appliances
+user_325,P4259,Pigeon Rice Cooker,Home Appliances
+user_325,P9821,Mother Dairy Paneer,Grocery
+user_325,P6818,Gucci Belt,Fashion
+user_326,P8322,Haldiram's Snacks,Grocery
+user_326,P5694,Boat Rockerz Headphones,Electronics
+user_326,P3745,Dove Body Lotion,Beauty Products
+user_326,P7631,Morphy Richards OTG,Home Appliances
+user_326,P3654,Redmi Note 12,Electronics
+user_327,P6191,UCB Polo T-Shirt,Fashion
+user_327,P7479,Voltas AC,Home Appliances
+user_327,P6950,Usha Pedestal Fan,Home Appliances
+user_327,P8377,Sunfeast Pasta,Grocery
+user_327,P4012,Nivea Deodorant,Beauty Products
+user_328,P5122,Forever 21 Skirt,Fashion
+user_328,P3734,Apple Airpods Pro,Electronics
+user_328,P2565,L'Oreal Shampoo,Beauty Products
+user_329,P1881,Minimalist Serum,Beauty Products
+user_329,P9584,Boat Rockerz Headphones,Electronics
+user_329,P5300,OnePlus 11,Electronics
+user_330,P7387,Adidas Hoodie,Fashion
+user_330,P5053,Orient Ceiling Fan,Home Appliances
+user_330,P3071,Usha Pedestal Fan,Home Appliances
+user_330,P3795,Allen Solly Formal Shirt,Fashion
+user_330,P6846,Samsung Galaxy S23,Electronics
+user_330,P8654,Blue Star Deep Freezer,Home Appliances
+user_330,P9987,Parle-G Biscuits,Grocery
+user_331,P3900,Louis Philippe Blazer,Fashion
+user_331,P8480,Everest Masala,Grocery
+user_331,P9576,Tropicana Juice,Grocery
+user_331,P6688,MTR Ready to Eat,Grocery
+user_331,P4721,Minimalist Serum,Beauty Products
+user_331,P6044,Kindle Paperwhite,Electronics
+user_332,P3551,Neutrogena Sunscreen,Beauty Products
+user_332,P1001,LG Washing Machine,Home Appliances
+user_332,P6634,Tata Tea Premium,Grocery
+user_332,P9767,Blue Star Deep Freezer,Home Appliances
+user_332,P8816,Samsung 4K TV,Electronics
+user_333,P5799,iPad Air,Electronics
+user_333,P1118,Britannia Bread,Grocery
+user_333,P4089,Catch Spices,Grocery
+user_333,P8161,Minimalist Serum,Beauty Products
+user_333,P3675,The Body Shop Body Butter,Beauty Products
+user_334,P5308,The Body Shop Body Butter,Beauty Products
+user_334,P4924,iPad Air,Electronics
+user_334,P5454,Everest Masala,Grocery
+user_334,P5404,Crompton Desert Cooler,Home Appliances
+user_334,P2121,Biotique Face Cream,Beauty Products
+user_334,P5744,Woodland Boots,Fashion
+user_335,P8418,Colorbar Nail Polish,Beauty Products
+user_335,P9060,Pigeon Rice Cooker,Home Appliances
+user_335,P1317,UCB Polo T-Shirt,Fashion
+user_336,P1362,GoPro Hero10,Electronics
+user_336,P5622,Puma Sports Shoes,Fashion
+user_336,P8183,Philips Air Fryer,Home Appliances
+user_336,P2477,Samsung Smartwatch,Electronics
+user_337,P4558,Samsung 4K TV,Electronics
+user_337,P6104,Morphy Richards OTG,Home Appliances
+user_337,P8597,Sugar Eyeliner,Beauty Products
+user_337,P2314,HP Wireless Mouse,Electronics
+user_338,P7429,Dell Inspiron Laptop,Electronics
+user_338,P8702,GoPro Hero10,Electronics
+user_338,P5097,Zara Denim Jacket,Fashion
+user_338,P2998,Lakme Lipstick,Beauty Products
+user_339,P5049,Himalaya Face Pack,Beauty Products
+user_339,P8550,Apple Airpods Pro,Electronics
+user_339,P4415,Sony PlayStation 5,Electronics
+user_339,P6113,WOW Skin Science Shampoo,Beauty Products
+user_340,P9534,Nike Air Max,Fashion
+user_340,P8884,Dell Inspiron Laptop,Electronics
+user_340,P6905,Bajaj Room Heater,Home Appliances
+user_340,P2850,Apple Airpods Pro,Electronics
+user_340,P6316,Pepe Jeans Top,Fashion
+user_341,P2960,RayBan Sunglasses,Fashion
+user_341,P1146,The Body Shop Body Butter,Beauty Products
+user_341,P8786,Amazon Echo Dot,Electronics
+user_342,P2466,HRX Tracksuit,Fashion
+user_342,P9190,H&M Casual Shirt,Fashion
+user_342,P6544,Realme Buds Air,Electronics
+user_342,P6824,Samsung Galaxy S23,Electronics
+user_342,P2759,Louis Philippe Blazer,Fashion
+user_342,P4812,Reebok Running Shoes,Fashion
+user_342,P6690,Crompton Desert Cooler,Home Appliances
+user_343,P7189,Levi's Jeans,Fashion
+user_343,P5107,Philips Air Fryer,Home Appliances
+user_343,P8168,Samsung 4K TV,Electronics
+user_343,P9892,MTR Ready to Eat,Grocery
+user_343,P4057,Biotique Face Cream,Beauty Products
+user_343,P6303,Catch Spices,Grocery
+user_344,P3627,Pigeon Rice Cooker,Home Appliances
+user_344,P3539,Sony PlayStation 5,Electronics
+user_344,P5314,Garnier Hair Color,Beauty Products
+user_344,P8439,Catch Spices,Grocery
+user_344,P7210,Sony PlayStation 5,Electronics
+user_344,P6965,Levi's Jeans,Fashion
+user_345,P2037,UCB Polo T-Shirt,Fashion
+user_345,P4110,Maggi Noodles,Grocery
+user_345,P3525,Haldiram's Snacks,Grocery
+user_345,P6285,MTR Ready to Eat,Grocery
+user_345,P2809,Plum Night Cream,Beauty Products
+user_345,P2092,Sony PlayStation 5,Electronics
+user_345,P3926,Sony WH-1000XM4,Electronics
+user_346,P8952,Puma Sports Shoes,Fashion
+user_346,P1521,Puma Sports Shoes,Fashion
+user_346,P9026,Maggi Noodles,Grocery
+user_347,P5193,Mother Dairy Paneer,Grocery
+user_347,P4616,Canon DSLR Camera,Electronics
+user_347,P1214,Daawat Basmati Rice,Grocery
+user_347,P2310,Reebok Running Shoes,Fashion
+user_347,P6913,Maybelline Foundation,Beauty Products
+user_347,P7046,Tropicana Juice,Grocery
+user_347,P5355,Realme Buds Air,Electronics
+user_348,P5979,Redmi Note 12,Electronics
+user_348,P9511,Apple Airpods Pro,Electronics
+user_348,P4784,OnePlus 11,Electronics
+user_348,P4104,Maggi Noodles,Grocery
+user_348,P5075,Allen Solly Formal Shirt,Fashion
+user_348,P7802,Kellogg's Cornflakes,Grocery
+user_348,P6864,Amazon Echo Dot,Electronics
+user_349,P3733,L'Oreal Shampoo,Beauty Products
+user_349,P7579,Louis Philippe Blazer,Fashion
+user_349,P3591,Saffola Oats,Grocery
+user_349,P8258,Everest Masala,Grocery
+user_349,P6319,Bosch Mixer Grinder,Home Appliances
+user_349,P8054,Morphy Richards OTG,Home Appliances
+user_350,P9939,Britannia Bread,Grocery
+user_350,P5162,Biba Kurti,Fashion
+user_350,P8331,Usha Pedestal Fan,Home Appliances
+user_350,P1567,Lakme Lipstick,Beauty Products
+user_350,P1267,Pigeon Rice Cooker,Home Appliances
+user_351,P1107,Gucci Belt,Fashion
+user_351,P4519,Orient Ceiling Fan,Home Appliances
+user_351,P5521,LG Washing Machine,Home Appliances
+user_351,P3534,Sunfeast Pasta,Grocery
+user_351,P8542,Samsung Galaxy S23,Electronics
+user_351,P3267,Philips Air Fryer,Home Appliances
+user_351,P5093,Kent Water Purifier,Home Appliances
+user_352,P2505,Havells Geyser,Home Appliances
+user_352,P4562,Maggi Noodles,Grocery
+user_352,P8905,HP Wireless Mouse,Electronics
+user_352,P2562,Reebok Running Shoes,Fashion
+user_353,P7251,Samsung Refrigerator,Home Appliances
+user_353,P6478,Samsung Galaxy S23,Electronics
+user_353,P7824,Morphy Richards OTG,Home Appliances
+user_353,P1187,Samsung Smartwatch,Electronics
+user_353,P5993,Maybelline Foundation,Beauty Products
+user_353,P6231,Fortune Sunflower Oil,Grocery
+user_353,P3450,Mother Dairy Paneer,Grocery
+user_354,P3509,Britannia Bread,Grocery
+user_354,P8300,Boat Rockerz Headphones,Electronics
+user_354,P9269,Mother Dairy Paneer,Grocery
+user_354,P8076,Samsung Smartwatch,Electronics
+user_354,P3425,Prestige Induction Cooktop,Home Appliances
+user_355,P8796,Whirlpool Microwave,Home Appliances
+user_355,P9980,Fortune Sunflower Oil,Grocery
+user_355,P2393,Neutrogena Sunscreen,Beauty Products
+user_355,P8118,Tresemme Conditioner,Beauty Products
+user_356,P4245,Reebok Running Shoes,Fashion
+user_356,P4212,WOW Skin Science Shampoo,Beauty Products
+user_356,P9589,Everest Masala,Grocery
+user_356,P2173,Forever 21 Skirt,Fashion
+user_357,P2467,Plum Night Cream,Beauty Products
+user_357,P7939,iPad Air,Electronics
+user_357,P4120,Kent Water Purifier,Home Appliances
+user_357,P1396,Kent Water Purifier,Home Appliances
+user_357,P6729,IFB Dishwasher,Home Appliances
+user_358,P3389,Colorbar Nail Polish,Beauty Products
+user_358,P4825,Maybelline Foundation,Beauty Products
+user_358,P3555,HRX Tracksuit,Fashion
+user_358,P1893,OnePlus 11,Electronics
+user_358,P3419,Van Heusen Trousers,Fashion
+user_358,P6624,LG Washing Machine,Home Appliances
+user_358,P8373,Mi Powerbank,Electronics
+user_359,P4424,HP Wireless Mouse,Electronics
+user_359,P4339,Amul Butter,Grocery
+user_359,P5237,Sunfeast Pasta,Grocery
+user_359,P3315,Haldiram's Snacks,Grocery
+user_359,P9631,Boat Rockerz Headphones,Electronics
+user_359,P3790,Dell Inspiron Laptop,Electronics
+user_360,P5444,Bajaj Room Heater,Home Appliances
+user_360,P1136,Kindle Paperwhite,Electronics
+user_360,P5445,Boat Rockerz Headphones,Electronics
+user_361,P5792,iPhone 15,Electronics
+user_361,P7237,The Body Shop Body Butter,Beauty Products
+user_361,P6168,Nestle Everyday Milk Powder,Grocery
+user_361,P9709,Colorbar Nail Polish,Beauty Products
+user_361,P4258,JBL Bluetooth Speaker,Electronics
+user_362,P1352,Minimalist Serum,Beauty Products
+user_362,P9673,Samsung Smartwatch,Electronics
+user_362,P9027,Bosch Mixer Grinder,Home Appliances
+user_362,P1301,Nivea Deodorant,Beauty Products
+user_362,P6822,Kent Water Purifier,Home Appliances
+user_362,P9212,Orient Ceiling Fan,Home Appliances
+user_362,P5221,Samsung Refrigerator,Home Appliances
+user_363,P5590,GoPro Hero10,Electronics
+user_363,P6599,Woodland Boots,Fashion
+user_363,P2438,Dove Body Lotion,Beauty Products
+user_363,P4726,Tresemme Conditioner,Beauty Products
+user_363,P3502,The Body Shop Body Butter,Beauty Products
+user_363,P6395,Garnier Hair Color,Beauty Products
+user_364,P4387,Tata Tea Premium,Grocery
+user_364,P9869,Roadster Leather Jacket,Fashion
+user_364,P6062,Woodland Boots,Fashion
+user_364,P8046,Tata Tea Premium,Grocery
+user_364,P3589,Roadster Leather Jacket,Fashion
+user_364,P9732,Whirlpool Microwave,Home Appliances
+user_365,P3384,UCB Polo T-Shirt,Fashion
+user_365,P7783,HP Wireless Mouse,Electronics
+user_365,P8258,Garnier Hair Color,Beauty Products
+user_366,P2749,Zara Denim Jacket,Fashion
+user_366,P1429,H&M Casual Shirt,Fashion
+user_366,P5372,Everest Masala,Grocery
+user_366,P4783,Mother Dairy Paneer,Grocery
+user_366,P4783,Britannia Bread,Grocery
+user_367,P8808,Whirlpool Microwave,Home Appliances
+user_367,P8680,Allen Solly Formal Shirt,Fashion
+user_367,P7348,IFB Dishwasher,Home Appliances
+user_368,P3683,Dove Body Lotion,Beauty Products
+user_368,P1528,Forever 21 Skirt,Fashion
+user_368,P5421,Lakme Lipstick,Beauty Products
+user_368,P4323,The Body Shop Body Butter,Beauty Products
+user_368,P3901,Adidas Hoodie,Fashion
+user_368,P9027,Colorbar Nail Polish,Beauty Products
+user_369,P8005,The Body Shop Body Butter,Beauty Products
+user_369,P7232,Maybelline Foundation,Beauty Products
+user_369,P9784,Prestige Induction Cooktop,Home Appliances
+user_369,P9530,Fortune Sunflower Oil,Grocery
+user_369,P8485,Kindle Paperwhite,Electronics
+user_370,P9812,Allen Solly Formal Shirt,Fashion
+user_370,P7347,Maybelline Foundation,Beauty Products
+user_370,P4110,Fortune Sunflower Oil,Grocery
+user_371,P5989,WOW Skin Science Shampoo,Beauty Products
+user_371,P3727,Usha Pedestal Fan,Home Appliances
+user_371,P1893,Garnier Hair Color,Beauty Products
+user_371,P8595,Tata Tea Premium,Grocery
+user_371,P9202,Mamaearth Face Wash,Beauty Products
+user_372,P9952,Roadster Leather Jacket,Fashion
+user_372,P7775,Biba Kurti,Fashion
+user_372,P1408,Usha Pedestal Fan,Home Appliances
+user_373,P4308,MCaffeine Coffee Scrub,Beauty Products
+user_373,P5097,Mamaearth Face Wash,Beauty Products
+user_373,P3024,IFB Dishwasher,Home Appliances
+user_373,P8362,OnePlus 11,Electronics
+user_374,P7292,Sony PlayStation 5,Electronics
+user_374,P3619,Everest Masala,Grocery
+user_374,P7235,Minimalist Serum,Beauty Products
+user_374,P6491,JBL Bluetooth Speaker,Electronics
+user_374,P3656,Tata Tea Premium,Grocery
+user_375,P7874,Nike Air Max,Fashion
+user_375,P8311,Havells Geyser,Home Appliances
+user_375,P2926,IFB Dishwasher,Home Appliances
+user_375,P1057,Zara Denim Jacket,Fashion
+user_376,P8514,LG Washing Machine,Home Appliances
+user_376,P9904,Pond's Moisturizer,Beauty Products
+user_376,P9084,Realme Buds Air,Electronics
+user_376,P8794,Zara Denim Jacket,Fashion
+user_376,P8239,Nykaa Matte Lipstick,Beauty Products
+user_376,P1107,Realme Buds Air,Electronics
+user_376,P5556,Louis Philippe Blazer,Fashion
+user_377,P1801,Amul Butter,Grocery
+user_377,P1902,Woodland Boots,Fashion
+user_377,P3381,Samsung Refrigerator,Home Appliances
+user_377,P5889,Amazon Echo Dot,Electronics
+user_377,P1803,Whirlpool Microwave,Home Appliances
+user_377,P3920,iPad Air,Electronics
+user_377,P3906,Gucci Belt,Fashion
+user_378,P1587,Catch Spices,Grocery
+user_378,P6289,Mi Powerbank,Electronics
+user_378,P2108,Prestige Induction Cooktop,Home Appliances
+user_378,P2063,Minimalist Serum,Beauty Products
+user_378,P3204,Blue Star Deep Freezer,Home Appliances
+user_378,P6393,Dell Inspiron Laptop,Electronics
+user_379,P4438,Tresemme Conditioner,Beauty Products
+user_379,P1953,Van Heusen Trousers,Fashion
+user_379,P9666,Amazon Echo Dot,Electronics
+user_379,P5705,Samsung 4K TV,Electronics
+user_379,P6185,Colorbar Nail Polish,Beauty Products
+user_379,P6797,Godrej Air Conditioner,Home Appliances
+user_379,P9132,Van Heusen Trousers,Fashion
+user_380,P3947,Pond's Moisturizer,Beauty Products
+user_380,P5759,Britannia Bread,Grocery
+user_380,P2936,Levi's Jeans,Fashion
+user_380,P2932,Kindle Paperwhite,Electronics
+user_380,P7793,Van Heusen Trousers,Fashion
+user_380,P6468,Maybelline Foundation,Beauty Products
+user_380,P4478,Crompton Desert Cooler,Home Appliances
+user_381,P5168,Gucci Belt,Fashion
+user_381,P5919,Mi Powerbank,Electronics
+user_381,P6307,Patanjali Honey,Grocery
+user_382,P6592,HP Wireless Mouse,Electronics
+user_382,P1477,MCaffeine Coffee Scrub,Beauty Products
+user_382,P6415,Zara Denim Jacket,Fashion
+user_383,P1582,Pond's Moisturizer,Beauty Products
+user_383,P3545,Reebok Running Shoes,Fashion
+user_383,P6490,Minimalist Serum,Beauty Products
+user_383,P1917,Nykaa Matte Lipstick,Beauty Products
+user_383,P6169,MTR Ready to Eat,Grocery
+user_384,P4412,Aashirvaad Atta,Grocery
+user_384,P6793,Saffola Oats,Grocery
+user_384,P5595,Sony WH-1000XM4,Electronics
+user_384,P7147,HP Wireless Mouse,Electronics
+user_384,P7382,Kellogg's Cornflakes,Grocery
+user_384,P2914,Van Heusen Trousers,Fashion
+user_384,P1518,Bosch Mixer Grinder,Home Appliances
+user_385,P9143,Mamaearth Face Wash,Beauty Products
+user_385,P8404,HRX Tracksuit,Fashion
+user_385,P9603,Bajaj Room Heater,Home Appliances
+user_385,P2838,IFB Dishwasher,Home Appliances
+user_385,P4311,Samsung Refrigerator,Home Appliances
+user_386,P1408,Tresemme Conditioner,Beauty Products
+user_386,P3524,Tresemme Conditioner,Beauty Products
+user_386,P8921,UCB Polo T-Shirt,Fashion
+user_387,P3347,Bosch Mixer Grinder,Home Appliances
+user_387,P3174,Sony PlayStation 5,Electronics
+user_387,P8526,Nike Air Max,Fashion
+user_387,P2897,Tresemme Conditioner,Beauty Products
+user_387,P1721,Mi Powerbank,Electronics
+user_387,P6460,Daawat Basmati Rice,Grocery
+user_387,P2689,Maybelline Foundation,Beauty Products
+user_388,P6114,LG Washing Machine,Home Appliances
+user_388,P4285,UCB Polo T-Shirt,Fashion
+user_388,P5532,Gucci Belt,Fashion
+user_388,P8227,Saffola Oats,Grocery
+user_388,P3446,Dell Inspiron Laptop,Electronics
+user_388,P2875,RayBan Sunglasses,Fashion
+user_388,P9422,Realme Buds Air,Electronics
+user_389,P6739,Louis Philippe Blazer,Fashion
+user_389,P5440,Saffola Oats,Grocery
+user_389,P5011,Gucci Belt,Fashion
+user_390,P6549,Mi Powerbank,Electronics
+user_390,P1831,Organic India Tulsi Tea,Grocery
+user_390,P8712,Levi's Jeans,Fashion
+user_390,P7284,OnePlus 11,Electronics
+user_391,P7421,iPad Air,Electronics
+user_391,P8304,Van Heusen Trousers,Fashion
+user_391,P6119,Catch Spices,Grocery
+user_392,P2286,Louis Philippe Blazer,Fashion
+user_392,P3159,MCaffeine Coffee Scrub,Beauty Products
+user_392,P2593,Kindle Paperwhite,Electronics
+user_392,P8625,Garnier Hair Color,Beauty Products
+user_392,P4666,The Body Shop Body Butter,Beauty Products
+user_393,P6954,Parle-G Biscuits,Grocery
+user_393,P6412,Nivea Deodorant,Beauty Products
+user_393,P8987,Usha Pedestal Fan,Home Appliances
+user_393,P8787,Redmi Note 12,Electronics
+user_394,P8556,Blue Star Deep Freezer,Home Appliances
+user_394,P6711,Gucci Belt,Fashion
+user_394,P3087,Mother Dairy Paneer,Grocery
+user_395,P2752,Boat Rockerz Headphones,Electronics
+user_395,P2162,Crompton Desert Cooler,Home Appliances
+user_395,P8552,Crompton Desert Cooler,Home Appliances
+user_395,P7773,MCaffeine Coffee Scrub,Beauty Products
+user_395,P4992,Van Heusen Trousers,Fashion
+user_395,P8903,Kellogg's Cornflakes,Grocery
+user_395,P6582,Mamaearth Face Wash,Beauty Products
+user_396,P8132,Tropicana Juice,Grocery
+user_396,P9921,Saffola Oats,Grocery
+user_396,P2276,H&M Casual Shirt,Fashion
+user_396,P2873,Haldiram's Snacks,Grocery
+user_397,P6330,Organic India Tulsi Tea,Grocery
+user_397,P8294,Nestle Everyday Milk Powder,Grocery
+user_397,P7648,Gucci Belt,Fashion
+user_397,P2781,Realme Buds Air,Electronics
+user_397,P6364,Maggi Noodles,Grocery
+user_397,P2483,Maybelline Foundation,Beauty Products
+user_397,P1003,Woodland Boots,Fashion
+user_398,P9704,Tommy Hilfiger Watch,Fashion
+user_398,P8326,Prestige Induction Cooktop,Home Appliances
+user_398,P6187,Zara Denim Jacket,Fashion
+user_398,P5989,Eureka Forbes Vacuum,Home Appliances
+user_399,P1133,Whirlpool Microwave,Home Appliances
+user_399,P7622,Sunfeast Pasta,Grocery
+user_399,P2022,Gucci Belt,Fashion
+user_399,P1870,Crompton Desert Cooler,Home Appliances
+user_399,P6885,GoPro Hero10,Electronics
+user_399,P1510,Mi Powerbank,Electronics
+user_400,P7459,MCaffeine Coffee Scrub,Beauty Products
+user_400,P7652,Prestige Induction Cooktop,Home Appliances
+user_400,P9931,Nykaa Matte Lipstick,Beauty Products
+user_400,P8780,H&M Casual Shirt,Fashion
+user_401,P7301,Louis Philippe Blazer,Fashion
+user_401,P3527,Morphy Richards OTG,Home Appliances
+user_401,P3200,Philips Air Fryer,Home Appliances
+user_401,P1257,Redmi Note 12,Electronics
+user_402,P3224,Nykaa Matte Lipstick,Beauty Products
+user_402,P7813,Sony WH-1000XM4,Electronics
+user_402,P7974,Colorbar Nail Polish,Beauty Products
+user_402,P8444,Kellogg's Cornflakes,Grocery
+user_403,P8373,Minimalist Serum,Beauty Products
+user_403,P4698,Sugar Eyeliner,Beauty Products
+user_403,P1121,Pepe Jeans Top,Fashion
+user_403,P4878,Haldiram's Snacks,Grocery
+user_403,P7731,Parle-G Biscuits,Grocery
+user_403,P7012,Mother Dairy Paneer,Grocery
+user_403,P8917,Samsung Galaxy S23,Electronics
+user_404,P8889,Amazon Echo Dot,Electronics
+user_404,P9624,Sony WH-1000XM4,Electronics
+user_404,P9469,Usha Pedestal Fan,Home Appliances
+user_404,P2449,Sony PlayStation 5,Electronics
+user_404,P2279,Reebok Running Shoes,Fashion
+user_405,P1864,MTR Ready to Eat,Grocery
+user_405,P1176,Crompton Desert Cooler,Home Appliances
+user_405,P9399,Himalaya Face Pack,Beauty Products
+user_405,P6431,MCaffeine Coffee Scrub,Beauty Products
+user_405,P5827,Sugar Eyeliner,Beauty Products
+user_405,P1578,IFB Dishwasher,Home Appliances
+user_405,P5267,MTR Ready to Eat,Grocery
+user_406,P3770,MCaffeine Coffee Scrub,Beauty Products
+user_406,P5780,Fortune Sunflower Oil,Grocery
+user_406,P5699,Aashirvaad Atta,Grocery
+user_407,P9283,Sony WH-1000XM4,Electronics
+user_407,P5129,Dell Inspiron Laptop,Electronics
+user_407,P5603,Van Heusen Trousers,Fashion
+user_407,P1232,Voltas AC,Home Appliances
+user_407,P3860,Realme Buds Air,Electronics
+user_407,P8317,Tata Tea Premium,Grocery
+user_408,P4869,RayBan Sunglasses,Fashion
+user_408,P9640,Nivea Deodorant,Beauty Products
+user_408,P2382,HP Wireless Mouse,Electronics
+user_408,P3525,Van Heusen Trousers,Fashion
+user_408,P7277,Nykaa Matte Lipstick,Beauty Products
+user_409,P4454,Nivea Deodorant,Beauty Products
+user_409,P1890,Catch Spices,Grocery
+user_409,P1860,Dyson Vacuum Cleaner,Home Appliances
+user_409,P7533,Tommy Hilfiger Watch,Fashion
+user_410,P9724,Blue Star Deep Freezer,Home Appliances
+user_410,P7390,Biba Kurti,Fashion
+user_410,P3378,Neutrogena Sunscreen,Beauty Products
+user_410,P1194,Tropicana Juice,Grocery
+user_410,P7258,Usha Pedestal Fan,Home Appliances
+user_410,P1672,Godrej Air Conditioner,Home Appliances
+user_411,P8074,Catch Spices,Grocery
+user_411,P6488,Parle-G Biscuits,Grocery
+user_411,P2610,Voltas AC,Home Appliances
+user_412,P8554,Maggi Noodles,Grocery
+user_412,P4193,Roadster Leather Jacket,Fashion
+user_412,P3947,Saffola Oats,Grocery
+user_412,P1173,Crompton Desert Cooler,Home Appliances
+user_412,P1195,Redmi Note 12,Electronics
+user_413,P2702,Sony PlayStation 5,Electronics
+user_413,P4594,Sugar Eyeliner,Beauty Products
+user_413,P4163,Voltas AC,Home Appliances
+user_413,P2506,iPhone 15,Electronics
+user_413,P4552,Realme Buds Air,Electronics
+user_413,P2965,Nestle Everyday Milk Powder,Grocery
+user_414,P7159,Tata Tea Premium,Grocery
+user_414,P2816,Kellogg's Cornflakes,Grocery
+user_414,P5826,RayBan Sunglasses,Fashion
+user_415,P5528,Kindle Paperwhite,Electronics
+user_415,P5216,Plum Night Cream,Beauty Products
+user_415,P5543,Adidas Hoodie,Fashion
+user_415,P7366,Boat Rockerz Headphones,Electronics
+user_415,P5230,Samsung Refrigerator,Home Appliances
+user_415,P8218,IFB Dishwasher,Home Appliances
+user_416,P7432,Biotique Face Cream,Beauty Products
+user_416,P2776,Reebok Running Shoes,Fashion
+user_416,P8065,Louis Philippe Blazer,Fashion
+user_417,P8234,Nestle Everyday Milk Powder,Grocery
+user_417,P1571,Dyson Vacuum Cleaner,Home Appliances
+user_417,P5105,Redmi Note 12,Electronics
+user_417,P9154,Lakme Lipstick,Beauty Products
+user_418,P7397,Samsung Galaxy S23,Electronics
+user_418,P6403,Philips Air Fryer,Home Appliances
+user_418,P1060,MCaffeine Coffee Scrub,Beauty Products
+user_418,P8833,Haldiram's Snacks,Grocery
+user_419,P9849,Mamaearth Face Wash,Beauty Products
+user_419,P7298,Levi's Jeans,Fashion
+user_419,P9770,L'Oreal Shampoo,Beauty Products
+user_419,P5961,Bosch Mixer Grinder,Home Appliances
+user_419,P2485,Maybelline Foundation,Beauty Products
+user_419,P6571,Crompton Desert Cooler,Home Appliances
+user_420,P4327,Garnier Hair Color,Beauty Products
+user_420,P1644,Louis Philippe Blazer,Fashion
+user_420,P5896,Biotique Face Cream,Beauty Products
+user_421,P8970,Canon DSLR Camera,Electronics
+user_421,P4104,Kindle Paperwhite,Electronics
+user_421,P4163,Nike Air Max,Fashion
+user_421,P4907,Amazon Echo Dot,Electronics
+user_421,P2032,WOW Skin Science Shampoo,Beauty Products
+user_421,P9186,MTR Ready to Eat,Grocery
+user_422,P1606,Lakme Lipstick,Beauty Products
+user_422,P6533,Samsung Refrigerator,Home Appliances
+user_422,P2936,Boat Rockerz Headphones,Electronics
+user_422,P8509,Allen Solly Formal Shirt,Fashion
+user_422,P4817,Tata Tea Premium,Grocery
+user_422,P3319,Samsung Galaxy S23,Electronics
+user_422,P8720,Lakme Lipstick,Beauty Products
+user_423,P3138,Samsung Smartwatch,Electronics
+user_423,P1818,JBL Bluetooth Speaker,Electronics
+user_423,P8474,Dyson Vacuum Cleaner,Home Appliances
+user_423,P2047,Kellogg's Cornflakes,Grocery
+user_423,P9145,OnePlus 11,Electronics
+user_423,P4613,Everest Masala,Grocery
+user_423,P7983,Apple Airpods Pro,Electronics
+user_424,P2979,Plum Night Cream,Beauty Products
+user_424,P3250,Patanjali Honey,Grocery
+user_424,P1746,Bajaj Room Heater,Home Appliances
+user_424,P6496,Kellogg's Cornflakes,Grocery
+user_424,P5487,OnePlus 11,Electronics
+user_425,P7060,Nivea Deodorant,Beauty Products
+user_425,P8187,Kellogg's Cornflakes,Grocery
+user_425,P1666,Roadster Leather Jacket,Fashion
+user_425,P7162,Puma Sports Shoes,Fashion
+user_426,P2322,Samsung 4K TV,Electronics
+user_426,P3939,iPhone 15,Electronics
+user_426,P5648,Amazon Echo Dot,Electronics
+user_426,P3079,Pond's Moisturizer,Beauty Products
+user_427,P9570,RayBan Sunglasses,Fashion
+user_427,P4919,Nykaa Matte Lipstick,Beauty Products
+user_427,P1616,Van Heusen Trousers,Fashion
+user_427,P9190,Kellogg's Cornflakes,Grocery
+user_428,P6699,Mi Powerbank,Electronics
+user_428,P4860,Lakme Lipstick,Beauty Products
+user_428,P9686,Puma Sports Shoes,Fashion
+user_428,P6929,Realme Buds Air,Electronics
+user_428,P4592,Sunfeast Pasta,Grocery
+user_428,P5528,Biotique Face Cream,Beauty Products
+user_428,P2846,Apple Airpods Pro,Electronics
+user_429,P3888,Pond's Moisturizer,Beauty Products
+user_429,P1885,Nike Air Max,Fashion
+user_429,P4433,Havells Geyser,Home Appliances
+user_429,P6477,Neutrogena Sunscreen,Beauty Products
+user_430,P2710,Maybelline Foundation,Beauty Products
+user_430,P3881,GoPro Hero10,Electronics
+user_430,P8947,Levi's Jeans,Fashion
+user_430,P2160,Nestle Everyday Milk Powder,Grocery
+user_430,P6340,Tommy Hilfiger Watch,Fashion
+user_430,P6336,Biotique Face Cream,Beauty Products
+user_430,P6343,Puma Sports Shoes,Fashion
+user_431,P7759,Samsung Smartwatch,Electronics
+user_431,P4615,Biba Kurti,Fashion
+user_431,P8936,Samsung 4K TV,Electronics
+user_431,P3374,iPad Air,Electronics
+user_432,P3917,Organic India Tulsi Tea,Grocery
+user_432,P3234,Sugar Eyeliner,Beauty Products
+user_432,P6875,Biotique Face Cream,Beauty Products
+user_432,P6503,Bajaj Room Heater,Home Appliances
+user_433,P1977,Amazon Echo Dot,Electronics
+user_433,P2820,Philips Air Fryer,Home Appliances
+user_433,P7852,Himalaya Face Pack,Beauty Products
+user_433,P4602,UCB Polo T-Shirt,Fashion
+user_434,P3784,Kellogg's Cornflakes,Grocery
+user_434,P4763,Patanjali Honey,Grocery
+user_434,P9548,iPad Air,Electronics
+user_434,P8757,Biotique Face Cream,Beauty Products
+user_434,P1237,Neutrogena Sunscreen,Beauty Products
+user_435,P6362,Forever 21 Skirt,Fashion
+user_435,P4643,MCaffeine Coffee Scrub,Beauty Products
+user_435,P1083,Tata Tea Premium,Grocery
+user_435,P1656,Maybelline Foundation,Beauty Products
+user_435,P1550,Tresemme Conditioner,Beauty Products
+user_435,P7460,Tresemme Conditioner,Beauty Products
+user_436,P9114,Kindle Paperwhite,Electronics
+user_436,P1203,Adidas Hoodie,Fashion
+user_436,P3174,Biotique Face Cream,Beauty Products
+user_436,P4916,Havells Geyser,Home Appliances
+user_436,P8860,iPhone 15,Electronics
+user_436,P8524,IFB Dishwasher,Home Appliances
+user_437,P8452,Aashirvaad Atta,Grocery
+user_437,P7641,Dove Body Lotion,Beauty Products
+user_437,P8607,HRX Tracksuit,Fashion
+user_437,P7305,Redmi Note 12,Electronics
+user_437,P1535,Godrej Air Conditioner,Home Appliances
+user_437,P5420,Morphy Richards OTG,Home Appliances
+user_437,P4393,Patanjali Honey,Grocery
+user_438,P1898,Saffola Oats,Grocery
+user_438,P1844,Catch Spices,Grocery
+user_438,P6989,Boat Rockerz Headphones,Electronics
+user_439,P6989,Fortune Sunflower Oil,Grocery
+user_439,P2097,IFB Dishwasher,Home Appliances
+user_439,P3267,Amul Butter,Grocery
+user_439,P9841,Orient Ceiling Fan,Home Appliances
+user_439,P4437,Samsung 4K TV,Electronics
+user_439,P6778,UCB Polo T-Shirt,Fashion
+user_440,P5540,Tropicana Juice,Grocery
+user_440,P7108,Redmi Note 12,Electronics
+user_440,P8966,Usha Pedestal Fan,Home Appliances
+user_440,P3010,Sunfeast Pasta,Grocery
+user_440,P9730,Minimalist Serum,Beauty Products
+user_441,P7031,Colorbar Nail Polish,Beauty Products
+user_441,P8501,Apple Airpods Pro,Electronics
+user_441,P7400,Redmi Note 12,Electronics
+user_441,P2260,Gucci Belt,Fashion
+user_441,P5521,JBL Bluetooth Speaker,Electronics
+user_442,P3465,Reebok Running Shoes,Fashion
+user_442,P1371,Allen Solly Formal Shirt,Fashion
+user_442,P9870,Morphy Richards OTG,Home Appliances
+user_443,P7883,Sugar Eyeliner,Beauty Products
+user_443,P5776,Lakme Lipstick,Beauty Products
+user_443,P1361,Adidas Hoodie,Fashion
+user_443,P6503,Allen Solly Formal Shirt,Fashion
+user_444,P6346,Saffola Oats,Grocery
+user_444,P9686,MCaffeine Coffee Scrub,Beauty Products
+user_444,P8503,Organic India Tulsi Tea,Grocery
+user_444,P3161,Eureka Forbes Vacuum,Home Appliances
+user_444,P5259,IFB Dishwasher,Home Appliances
+user_444,P7093,Reebok Running Shoes,Fashion
+user_445,P6785,Sony WH-1000XM4,Electronics
+user_445,P3725,Usha Pedestal Fan,Home Appliances
+user_445,P9770,Kellogg's Cornflakes,Grocery
+user_445,P3873,IFB Dishwasher,Home Appliances
+user_445,P4897,H&M Casual Shirt,Fashion
+user_446,P3072,HP Wireless Mouse,Electronics
+user_446,P7056,Neutrogena Sunscreen,Beauty Products
+user_446,P1568,Zara Denim Jacket,Fashion
+user_447,P7109,Philips Air Fryer,Home Appliances
+user_447,P3663,Minimalist Serum,Beauty Products
+user_447,P2990,MTR Ready to Eat,Grocery
+user_447,P9182,Boat Rockerz Headphones,Electronics
+user_447,P6246,Tommy Hilfiger Watch,Fashion
+user_448,P9313,GoPro Hero10,Electronics
+user_448,P8764,Havells Geyser,Home Appliances
+user_448,P3409,Eureka Forbes Vacuum,Home Appliances
+user_448,P6549,Organic India Tulsi Tea,Grocery
+user_449,P3284,Maybelline Foundation,Beauty Products
+user_449,P6047,Nestle Everyday Milk Powder,Grocery
+user_449,P4610,Boat Rockerz Headphones,Electronics
+user_450,P6347,Whirlpool Microwave,Home Appliances
+user_450,P4197,Realme Buds Air,Electronics
+user_450,P4639,Sunfeast Pasta,Grocery
+user_450,P1369,Bajaj Room Heater,Home Appliances
+user_450,P8298,GoPro Hero10,Electronics
+user_450,P7462,Sony PlayStation 5,Electronics
+user_451,P9381,Plum Night Cream,Beauty Products
+user_451,P7513,Canon DSLR Camera,Electronics
+user_451,P7056,Pepe Jeans Top,Fashion
+user_451,P1199,Sugar Eyeliner,Beauty Products
+user_452,P6047,Kent Water Purifier,Home Appliances
+user_452,P2435,Minimalist Serum,Beauty Products
+user_452,P7809,Tommy Hilfiger Watch,Fashion
+user_452,P3683,Garnier Hair Color,Beauty Products
+user_452,P3286,Nykaa Matte Lipstick,Beauty Products
+user_453,P3353,Daawat Basmati Rice,Grocery
+user_453,P8776,Gucci Belt,Fashion
+user_453,P2083,Saffola Oats,Grocery
+user_453,P2449,Maggi Noodles,Grocery
+user_453,P5478,iPad Air,Electronics
+user_453,P8571,Nivea Deodorant,Beauty Products
+user_453,P4264,Tata Tea Premium,Grocery
+user_454,P9037,Garnier Hair Color,Beauty Products
+user_454,P5979,Mi Powerbank,Electronics
+user_454,P8593,Minimalist Serum,Beauty Products
+user_454,P1040,Levi's Jeans,Fashion
+user_455,P8742,Havells Geyser,Home Appliances
+user_455,P7834,Mi Powerbank,Electronics
+user_455,P5009,Reebok Running Shoes,Fashion
+user_455,P5541,OnePlus 11,Electronics
+user_456,P6927,Realme Buds Air,Electronics
+user_456,P8144,Haldiram's Snacks,Grocery
+user_456,P2959,Blue Star Deep Freezer,Home Appliances
+user_456,P1287,Godrej Air Conditioner,Home Appliances
+user_456,P1958,IFB Dishwasher,Home Appliances
+user_456,P8553,UCB Polo T-Shirt,Fashion
+user_457,P1866,IFB Dishwasher,Home Appliances
+user_457,P7873,Kent Water Purifier,Home Appliances
+user_457,P5749,Samsung Refrigerator,Home Appliances
+user_457,P2258,Godrej Air Conditioner,Home Appliances
+user_458,P2548,H&M Casual Shirt,Fashion
+user_458,P9908,Kellogg's Cornflakes,Grocery
+user_458,P5932,Bosch Mixer Grinder,Home Appliances
+user_458,P2570,Kent Water Purifier,Home Appliances
+user_458,P6761,Mother Dairy Paneer,Grocery
+user_458,P3243,Levi's Jeans,Fashion
+user_458,P7111,MTR Ready to Eat,Grocery
+user_459,P3671,Plum Night Cream,Beauty Products
+user_459,P3532,Apple Airpods Pro,Electronics
+user_459,P4087,Britannia Bread,Grocery
+user_459,P9612,Everest Masala,Grocery
+user_459,P2867,Patanjali Honey,Grocery
+user_459,P2251,Himalaya Face Pack,Beauty Products
+user_460,P8856,Levi's Jeans,Fashion
+user_460,P6940,Havells Geyser,Home Appliances
+user_460,P9570,Tommy Hilfiger Watch,Fashion
+user_461,P1471,Gucci Belt,Fashion
+user_461,P3108,Samsung Smartwatch,Electronics
+user_461,P6036,Forever 21 Skirt,Fashion
+user_461,P3133,Zara Denim Jacket,Fashion
+user_461,P2830,iPad Air,Electronics
+user_462,P8065,Samsung 4K TV,Electronics
+user_462,P2766,Apple Airpods Pro,Electronics
+user_462,P1971,Sony PlayStation 5,Electronics
+user_463,P1709,Dell Inspiron Laptop,Electronics
+user_463,P1168,Mi Powerbank,Electronics
+user_463,P4365,OnePlus 11,Electronics
+user_463,P4027,Amul Butter,Grocery
+user_463,P2487,LG Washing Machine,Home Appliances
+user_463,P6698,RayBan Sunglasses,Fashion
+user_464,P4962,Allen Solly Formal Shirt,Fashion
+user_464,P2119,Mother Dairy Paneer,Grocery
+user_464,P1229,Amazon Echo Dot,Electronics
+user_464,P4138,Amul Butter,Grocery
+user_464,P9800,IFB Dishwasher,Home Appliances
+user_465,P9260,Apple Airpods Pro,Electronics
+user_465,P4033,Sugar Eyeliner,Beauty Products
+user_465,P3963,L'Oreal Shampoo,Beauty Products
+user_466,P4510,Nykaa Matte Lipstick,Beauty Products
+user_466,P7677,Britannia Bread,Grocery
+user_466,P3025,HP Wireless Mouse,Electronics
+user_466,P9515,L'Oreal Shampoo,Beauty Products
+user_466,P6918,Reebok Running Shoes,Fashion
+user_467,P2347,Fortune Sunflower Oil,Grocery
+user_467,P2895,Blue Star Deep Freezer,Home Appliances
+user_467,P8486,Garnier Hair Color,Beauty Products
+user_467,P8273,MTR Ready to Eat,Grocery
+user_467,P7672,Louis Philippe Blazer,Fashion
+user_468,P2140,Biotique Face Cream,Beauty Products
+user_468,P3937,Sugar Eyeliner,Beauty Products
+user_468,P2723,Samsung 4K TV,Electronics
+user_468,P9563,Himalaya Face Pack,Beauty Products
+user_468,P3348,OnePlus 11,Electronics
+user_469,P2666,MCaffeine Coffee Scrub,Beauty Products
+user_469,P6959,Adidas Hoodie,Fashion
+user_469,P4281,UCB Polo T-Shirt,Fashion
+user_469,P3011,Maggi Noodles,Grocery
+user_469,P9177,Pepe Jeans Top,Fashion
+user_469,P5472,Eureka Forbes Vacuum,Home Appliances
+user_470,P7626,Blue Star Deep Freezer,Home Appliances
+user_470,P5569,Tresemme Conditioner,Beauty Products
+user_470,P2770,Tommy Hilfiger Watch,Fashion
+user_470,P9017,Dell Inspiron Laptop,Electronics
+user_470,P3205,The Body Shop Body Butter,Beauty Products
+user_470,P1865,OnePlus 11,Electronics
+user_471,P3934,Lakme Lipstick,Beauty Products
+user_471,P6356,Colorbar Nail Polish,Beauty Products
+user_471,P2578,Gucci Belt,Fashion
+user_472,P8635,Haldiram's Snacks,Grocery
+user_472,P9157,Gucci Belt,Fashion
+user_472,P5287,Tresemme Conditioner,Beauty Products
+user_473,P9955,Crompton Desert Cooler,Home Appliances
+user_473,P8051,Samsung Galaxy S23,Electronics
+user_473,P8374,Boat Rockerz Headphones,Electronics
+user_473,P8250,Prestige Induction Cooktop,Home Appliances
+user_473,P1538,Maybelline Foundation,Beauty Products
+user_473,P5965,Louis Philippe Blazer,Fashion
+user_473,P8056,Reebok Running Shoes,Fashion
+user_474,P8986,Prestige Induction Cooktop,Home Appliances
+user_474,P9037,Amazon Echo Dot,Electronics
+user_474,P8697,Patanjali Honey,Grocery
+user_474,P3560,Minimalist Serum,Beauty Products
+user_475,P5315,Boat Rockerz Headphones,Electronics
+user_475,P7189,MCaffeine Coffee Scrub,Beauty Products
+user_475,P5660,Catch Spices,Grocery
+user_475,P1461,Samsung Refrigerator,Home Appliances
+user_475,P3100,Fortune Sunflower Oil,Grocery
+user_475,P1440,Kent Water Purifier,Home Appliances
+user_475,P2594,Prestige Induction Cooktop,Home Appliances
+user_476,P7749,Kent Water Purifier,Home Appliances
+user_476,P5001,Samsung Refrigerator,Home Appliances
+user_476,P6113,Forever 21 Skirt,Fashion
+user_476,P2073,Daawat Basmati Rice,Grocery
+user_476,P6531,Dyson Vacuum Cleaner,Home Appliances
+user_476,P9821,Levi's Jeans,Fashion
+user_477,P7921,Kindle Paperwhite,Electronics
+user_477,P7900,Sunfeast Pasta,Grocery
+user_477,P8695,LG Washing Machine,Home Appliances
+user_477,P6185,Aashirvaad Atta,Grocery
+user_477,P7394,MCaffeine Coffee Scrub,Beauty Products
+user_478,P9001,Nestle Everyday Milk Powder,Grocery
+user_478,P6504,Apple Airpods Pro,Electronics
+user_478,P6563,Tresemme Conditioner,Beauty Products
+user_478,P5907,Van Heusen Trousers,Fashion
+user_478,P4305,Morphy Richards OTG,Home Appliances
+user_479,P4507,GoPro Hero10,Electronics
+user_479,P1778,Voltas AC,Home Appliances
+user_479,P7586,Eureka Forbes Vacuum,Home Appliances
+user_479,P2506,Van Heusen Trousers,Fashion
+user_479,P6518,Nestle Everyday Milk Powder,Grocery
+user_479,P9700,Whirlpool Microwave,Home Appliances
+user_480,P6690,Biotique Face Cream,Beauty Products
+user_480,P9268,Mi Powerbank,Electronics
+user_480,P9846,Morphy Richards OTG,Home Appliances
+user_480,P7788,Bajaj Room Heater,Home Appliances
+user_480,P9443,Neutrogena Sunscreen,Beauty Products
+user_480,P3958,Minimalist Serum,Beauty Products
+user_481,P9178,Kellogg's Cornflakes,Grocery
+user_481,P5389,Tommy Hilfiger Watch,Fashion
+user_481,P8106,Everest Masala,Grocery
+user_482,P4287,Sony PlayStation 5,Electronics
+user_482,P3420,Usha Pedestal Fan,Home Appliances
+user_482,P5919,Woodland Boots,Fashion
+user_482,P6220,Nykaa Matte Lipstick,Beauty Products
+user_482,P7757,Apple Airpods Pro,Electronics
+user_482,P3631,Havells Geyser,Home Appliances
+user_482,P4868,Pigeon Rice Cooker,Home Appliances
+user_483,P3456,Puma Sports Shoes,Fashion
+user_483,P5023,Levi's Jeans,Fashion
+user_483,P8952,Usha Pedestal Fan,Home Appliances
+user_483,P7914,Tropicana Juice,Grocery
+user_483,P3610,Apple Airpods Pro,Electronics
+user_483,P1477,Philips Air Fryer,Home Appliances
+user_484,P3883,Crompton Desert Cooler,Home Appliances
+user_484,P1326,Samsung 4K TV,Electronics
+user_484,P6143,Redmi Note 12,Electronics
+user_484,P2041,MTR Ready to Eat,Grocery
+user_484,P2479,Sugar Eyeliner,Beauty Products
+user_485,P2833,Forever 21 Skirt,Fashion
+user_485,P2976,Sunfeast Pasta,Grocery
+user_485,P9605,Mother Dairy Paneer,Grocery
+user_485,P2478,Blue Star Deep Freezer,Home Appliances
+user_485,P3003,Van Heusen Trousers,Fashion
+user_485,P7388,Bosch Mixer Grinder,Home Appliances
+user_486,P3363,Biotique Face Cream,Beauty Products
+user_486,P4507,JBL Bluetooth Speaker,Electronics
+user_486,P7690,Usha Pedestal Fan,Home Appliances
+user_486,P1916,Eureka Forbes Vacuum,Home Appliances
+user_487,P2850,Catch Spices,Grocery
+user_487,P7943,Crompton Desert Cooler,Home Appliances
+user_487,P5550,The Body Shop Body Butter,Beauty Products
+user_487,P8786,HRX Tracksuit,Fashion
+user_487,P1345,Havells Geyser,Home Appliances
+user_487,P1895,Fortune Sunflower Oil,Grocery
+user_488,P7302,Crompton Desert Cooler,Home Appliances
+user_488,P2999,Kent Water Purifier,Home Appliances
+user_488,P8248,Britannia Bread,Grocery
+user_488,P7438,Lakme Lipstick,Beauty Products
+user_489,P4857,Whirlpool Microwave,Home Appliances
+user_489,P3625,Bajaj Room Heater,Home Appliances
+user_489,P7656,Plum Night Cream,Beauty Products
+user_489,P2312,Dell Inspiron Laptop,Electronics
+user_489,P7765,Pond's Moisturizer,Beauty Products
+user_490,P3627,L'Oreal Shampoo,Beauty Products
+user_490,P2087,Godrej Air Conditioner,Home Appliances
+user_490,P9973,Morphy Richards OTG,Home Appliances
+user_490,P1448,Usha Pedestal Fan,Home Appliances
+user_490,P8264,JBL Bluetooth Speaker,Electronics
+user_491,P4278,Boat Rockerz Headphones,Electronics
+user_491,P2347,Bosch Mixer Grinder,Home Appliances
+user_491,P5089,JBL Bluetooth Speaker,Electronics
+user_491,P7722,Tata Tea Premium,Grocery
+user_492,P3187,Pond's Moisturizer,Beauty Products
+user_492,P6367,IFB Dishwasher,Home Appliances
+user_492,P2382,Bajaj Room Heater,Home Appliances
+user_492,P3980,Sugar Eyeliner,Beauty Products
+user_492,P4677,WOW Skin Science Shampoo,Beauty Products
+user_493,P4747,GoPro Hero10,Electronics
+user_493,P4248,Kindle Paperwhite,Electronics
+user_493,P1815,IFB Dishwasher,Home Appliances
+user_494,P5262,Tropicana Juice,Grocery
+user_494,P7028,Adidas Hoodie,Fashion
+user_494,P2922,Roadster Leather Jacket,Fashion
+user_494,P8129,Sony PlayStation 5,Electronics
+user_494,P2941,Pond's Moisturizer,Beauty Products
+user_494,P4121,Zara Denim Jacket,Fashion
+user_495,P7259,Blue Star Deep Freezer,Home Appliances
+user_495,P4385,Pepe Jeans Top,Fashion
+user_495,P5636,Amul Butter,Grocery
+user_495,P3955,Pepe Jeans Top,Fashion
+user_495,P1471,Dove Body Lotion,Beauty Products
+user_496,P8388,Orient Ceiling Fan,Home Appliances
+user_496,P8506,HRX Tracksuit,Fashion
+user_496,P8682,iPhone 15,Electronics
+user_496,P7513,UCB Polo T-Shirt,Fashion
+user_496,P7935,Biba Kurti,Fashion
+user_497,P2561,Whirlpool Microwave,Home Appliances
+user_497,P1853,Fortune Sunflower Oil,Grocery
+user_497,P8715,Orient Ceiling Fan,Home Appliances
+user_497,P1745,Pigeon Rice Cooker,Home Appliances
+user_497,P9266,Dell Inspiron Laptop,Electronics
+user_497,P5956,Maggi Noodles,Grocery
+user_497,P3166,Sugar Eyeliner,Beauty Products
+user_498,P3938,Amazon Echo Dot,Electronics
+user_498,P9253,IFB Dishwasher,Home Appliances
+user_498,P8669,Plum Night Cream,Beauty Products
+user_498,P6198,Adidas Hoodie,Fashion
+user_498,P3323,Tropicana Juice,Grocery
+user_498,P6132,Dyson Vacuum Cleaner,Home Appliances
+user_498,P9179,Sony WH-1000XM4,Electronics
+user_499,P5635,Morphy Richards OTG,Home Appliances
+user_499,P5321,Pigeon Rice Cooker,Home Appliances
+user_499,P8139,Saffola Oats,Grocery
+user_499,P9049,UCB Polo T-Shirt,Fashion
+user_499,P8208,Louis Philippe Blazer,Fashion
+user_500,P1894,Woodland Boots,Fashion
+user_500,P1587,H&M Casual Shirt,Fashion
+user_500,P3679,Neutrogena Sunscreen,Beauty Products
